@@ -1,0 +1,113 @@
+body {
+    background-image: url(../Images/BackgroundImages/galaxy4.jpg) ;
+    background-color: #cccccc;
+    background-size: 200vmin;
+    align-items: center;
+}
+
+div {
+    text-align: center;
+    padding: 0px;
+}
+#orphic {
+    height: 350px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-left: 30px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    padding-top: none;
+    margin-top: 10px;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    font-size: 25px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+
+
+#name {
+    padding: 0px;
+
+}
+
+#month {
+    height: 30px;
+    text-align: center;
+    align-items: center;
+    padding-top: 20px;
+    margin-top: 15px;
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+}
+
+#day {
+    height: 30px;
+    padding-top: 20px;
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+}
+
+#submit {
+    height: 30px;
+    padding-top: ;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 15px;
+    width: 100px;
+}
+
+#card {
+    height: 400px;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+#cards {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    padding: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#cardName {
+    color: white;
+    padding-top: 0px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+#orphicSmall{
+    text-align: center;
+    align-items: center;
+    height: 125px;
+    padding-top: 10px;
+}
+#page2Head {
+    align-items: center;
+
+}
