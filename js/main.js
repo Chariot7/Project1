@@ -591,7 +591,7 @@ const minorArcana = {
         qualities: 'Body, Physical World, Money, Discipline, Responsibility, Tradition, Form',
         cards: {
             'Ace': {
-                name: 'Ace of pentacles',
+                name: 'Ace of Pentacles',
                 attribution: 'Kether',
                 description: '',
                 divinitoryMeaning: '',
@@ -600,7 +600,7 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/ace.jpg",
             },
             '2': {
-                name: '2 of Cups',
+                name: '2 of Pentacles',
                 attribution: 'Chokmah',
                 description: '',
                 divinitoryMeaning: '',
@@ -609,7 +609,7 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/2.jpg",
             },
             '3': {
-                name: '3 of Cups',
+                name: '3 of Pentacles ',
                 attribution: 'Binah',
                 description: '',
                 divinitoryMeaning: '',
@@ -618,7 +618,7 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/3.jpg",
             },
             '4': {
-                name: '4 of Cups',
+                name: '4 of Pentacles ',
                 attribution: 'Chesed',
                 description: '',
                 divinitoryMeaning: '',
@@ -627,7 +627,7 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/4.jpg",
             },
             '5': {
-                name: '5 of Cups',
+                name: '5 of Pentacles ',
                 attribution: 'Geburah',
                 description: '',
                 divinitoryMeaning: '',
@@ -636,7 +636,7 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/5.jpg",
             },
             '6': {
-                name: '6 of Cups',
+                name: '6 of Pentacles ',
                 attribution: 'Tiphareth',
                 description: '',
                 divinitoryMeaning: '',
@@ -645,7 +645,7 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/6.jpg",
             },
             '7': {
-                name: '7 of Cups',
+                name: '7 of Pentacles ',
                 attribution: 'Netzach',
                 description: '',
                 divinitoryMeaning: '',
@@ -654,7 +654,7 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/7.jpg",
             },
             '8': {
-                name: '8 of Cups',
+                name: '8 of Pentacles ',
                 attribution: 'Hod',
                 description: '',
                 divinitoryMeaning: '',
@@ -663,7 +663,7 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/8.jpg",
             },
             '9': {
-                name: '9 of Cups',
+                name: '9 of Pentacles ',
                 attribution: 'Yesod',
                 description: '',
                 divinitoryMeaning: '',
@@ -672,7 +672,7 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/9.jpg",
             },
             '10': {
-                name: '10 of Cups',
+                name: '10 of Pentacles ',
                 attribution: 'Malkuth',
                 description: '',
                 divinitoryMeaning: '',
@@ -681,8 +681,8 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/10.jpg",
             },
             'Page': {
-                name: 'Page of Cups',
-                attribution: 'Earth of Fire',
+                name: 'Page of Pentacles ',
+                attribution: 'Earth of Earth',
                 description: '',
                 divinitoryMeaning: '',
                 reversed: '',
@@ -690,8 +690,8 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/page.jpg",
             },
             'Knight': {
-                name: 'Knight of Cups',
-                attribution: 'Air of Fire',
+                name: 'Knight of Pentacles',
+                attribution: 'Air of Earth',
                 description: '',
                 divinitoryMeaning: '',
                 reversed: '',
@@ -699,17 +699,17 @@ const minorArcana = {
                 image: "Images/RiderWaite/Pentacles/knight.jpg",
             },
             'Queen': {
-                name: 'Queen of Cups',
-                attribution: 'Water of Fire',
-                description: '',
-                divinitoryMeaning: '',
+                name: 'Queen of Pentacles',
+                attribution: 'Water of Earth',
+                description: 'The face suggests that of a dark woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein',
+                divinitoryMeaning: 'Opulence, generosity, magnificence, security, liberty.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/queen.jpg",
             },
             'King': {
-                name: 'King of Cups',
-                attribution: 'Fire of Fire',
+                name: 'King of Pentacles',
+                attribution: 'Fire of Earth',
                 description: '',
                 divinitoryMeaning: '',
                 reversed: '',
@@ -862,6 +862,7 @@ let x = 0
 let selectedCards = [];
 
 /*----- cached element references -----*/
+
 let enter = document.getElementById("enter");
 enter.style.display = "block";
 
@@ -872,11 +873,13 @@ let birthDate = document.getElementById("birthday");
 birthDate.style.display = "block";
 
 let cardName = document.getElementById("cardName");
+cardName.style.display = "none"
 
 let orphicSmall = document.getElementById("orphicSmall");
 orphicSmall.style.display = "none";
 
 let description = document.getElementById("meaning");
+description.style.display = "none";
 
 let submit = document.getElementById("submit");
 
@@ -884,6 +887,12 @@ let contin = document.getElementById("continue");
 contin.style.display = "none";
 
 let cardBacks = document.getElementById("CardsBack");
+
+let spinner = document.getElementById("spinner");
+spinner.style.display = "none"
+
+let Eye = document.getElementById("Eye");
+Eye.style.display = "none";
 
 /*---page3----*/
 let page3 = document.getElementById("page3");
@@ -923,12 +932,17 @@ function inputInfo() {
     birthDay = document.getElementById("day").value ;
     userName = document.getElementById("userName").value ;
     
-    birthDate.style.display = "none";
-    enter.style.display = "none";
-    submit.style.display = "none";
-    contin.style.display = "inline";
-    card.style.display = "block"
-    orphicSmall.style.display = "inline"
+    // birthDate.style.display = "none";
+    // enter.style.display = "none";
+    // submit.style.display = "none";
+    $("#birthday").fadeOut(444);
+    $("#enter").fadeOut(444);
+    $("#submit").fadeOut(444);
+    setTimeout(fadeIn, 444)
+
+    // contin.style.display = "inline";
+    // card.style.display = "block"
+    // orphicSmall.style.display = "inline"
     
     if((birthMonth === "September" && birthDay >= 12) || (birthMonth === "October" && birthDay < 13)){
         card.src = minorArcana.swords.cards.Queen.image
@@ -993,14 +1007,41 @@ function inputInfo() {
     // need to add name: and images to card files in order for them to show up.
 }
 
+function fadeIn() {
+    $("#continue").fadeIn(333);
+    $("#card").fadeIn(333);
+    $("#orphicSmall").fadeIn(333);
+    $("#cardName").fadeIn(333);
+    $("#meaning").fadeIn(333);
+}
+
 function contNextPage() {
-    contin.style.display = "none";
-    card.style.display = "none";
-    description.style.display = "none";
-    cardName.style.display = "none";
-    page3.style.display = "block"
+    $("#continue").fadeOut(444);
+    $("#card").fadeOut(444);
+    $("#meaning").fadeOut(444);
+    $("#cardName").fadeOut(444);
+    // contin.style.display = "none";
+    // card.style.display = "none";
+    // description.style.display = "none";
+    // cardName.style.display = "none";
+    spinner.style.display = "inline";
+    Eye.style.display = "inline";
+    setTimeout(renderPage3, 4444)
+}
+function renderPage3(){
+    // spinner.style.display = "none";
+    // Eye.style.display = "none";
+    $("#spinner").fadeOut(555);
+    $("#Eye").fadeOut(555);
+    setTimeout(page3Mirror, 555)
     shuffle();
 }
+
+function page3Mirror() {
+    $("#page3").fadeIn(555);
+}
+
+
 function shuffle() {
     for(let i = 0 ; i < 14 ; i++){
     shufCard = Math.floor(Math.random() * 78)
@@ -1017,9 +1058,9 @@ if(i === "CardsBack")
     return;
 clickArray.push(i);
 if(clickArray.length === 3) {
-    contPageFour();  
+    setTimeout(contPageFour, 444)   
     }  
-b.style.border = "2px solid red"
+b.style.border = "3.5px solid orange"
 console.log('clicked')
 console.log(i)
 console.log(clickArray)
@@ -1034,7 +1075,8 @@ function getCards() {
 
 
 function contPageFour() {
-    page3.style.display = "none";
+    $("#page3").fadeOut(444);
+    // page3.style.display = "none";
     page4.style.display = "block";
     document.getElementById("inputCard").src = card.src
 }

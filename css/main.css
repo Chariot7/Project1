@@ -164,3 +164,18 @@ height: 300px;
 #inputCard {
     height: 150px;
 }
+
+#spinner{
+    height: 400px;
+    align-items: center;
+    text-align: center;
+    padding-top: 45px;
+}
+
+#Eye {
+    height: 150px;
+    align-items: center;
+    text-align: center;
+    margin-top: 90px;
+    padding-top: 30px;
+}
