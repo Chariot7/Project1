@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,18 +9,22 @@
     <script defer src="js/main.js"></script>
     <title>Tarot</title>
 </head>
+
 <body>
-    <div id="enter">
-        <div id=>
-            <img id="orphic" src="Images/BackgroundImages/orphic.png" alt="orphic egg">
-        </div>   
-        <div id="name">
-            <h2>Enter Your Name</h2> 
-            <input id = "userName"type="text" value="">
+
+    <div id="page1">
+        <div id="enter">
+            <div id=>
+                <img id="orphic" src="Images/BackgroundImages/orphic.png" alt="orphic egg">
+            </div>
+            <div id="name">
+                <h2>Enter Your Name</h2>
+                <input id="userName" type="text" value="">
+            </div>
         </div>
     </div>
-    <div id="birthday">   
-        <select class = "userInfo" id="month">
+    <div id="birthday">
+        <select class="userInfo" id="month">
             <option>January</option>
             <option>February</option>
             <option>March</option>
@@ -33,7 +38,7 @@
             <option>November</option>
             <option>December</option>
         </select>
-        <select  id="day">
+        <select id="day">
             <option>01</option>
             <option>02</option>
             <option>03</option>
@@ -66,18 +71,56 @@
             <option>30</option>
             <option>31</option>
         </select>
-    </div>    
+    </div>
     <div>
         <button id="submit">Submit</button>
-    </div> 
-    <div id = "page2Head">
-        <img id="orphicSmall" src="Images/BackgroundImages/orphic.png" alt="orphic egg"> 
+    </div>
+
+    <div id="page2Head">
+        <img id="orphicSmall" src="Images/BackgroundImages/orphic.png" alt="orphic egg">
         <h1 id="cardName"></h1>
     </div>
     <div id="cards">
         <img id="card" src="Images/RiderWaite/Cups/queen.jpg" alt="Tarot Card">
         <p id="meaning"></p>
-        <p id=""></p>
     </div>
-    </body>
+    <div>
+        <button id="continue">Continue</button>
+    </div>
+
+    <div id="page3">
+        <div id="page3Head">
+            <h1 id="p3Head">Draw Your Cards</h1>
+            <h3 id="p3instruct">Pick 3!......
+                ....CARDS
+            </h3>
+        </div>
+        <section id="CardsBack">
+            <img id="0" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="1" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="2" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="3" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="4" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="5" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="6" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="7" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="8" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="9" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="10" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="11" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="12" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+            <img id="13" class="backs" src="Images/RiderWaite/RWBack.png" alt="Back of Card">
+        </section>
+    </div>
+    <div id="page4">
+        <div>
+            <img id = "inputCard" src="Images/RiderWaite/RWBack.png" alt="ClickChoice1">
+        </div>
+            <img id = "click1" class = "clickChoiceImage" src="Images/RiderWaite/RWBack.png" alt="ClickChoice1">
+            <img id = "click2" class = "clickChoiceImage" src="Images/RiderWaite/RWBack.png" alt="ClickChoice2">
+            <img id = "click3" class = "clickChoiceImage" src="Images/RiderWaite/RWBack.png" alt="ClickCHoice3">
+    </div>
+
+</body>
+
 </html>

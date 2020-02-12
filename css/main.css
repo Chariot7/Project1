@@ -49,6 +49,8 @@ input {
     width: 200px;
     height: 30px;
     font-size: 15px;
+    /* background-color: black;
+    color: white; */
 }
 
 #day {
@@ -58,6 +60,8 @@ input {
     width: 100px;
     height: 30px;
     font-size: 15px;
+    /* background-color: black;
+    color: white; */
 }
 
 #submit {
@@ -67,7 +71,9 @@ input {
     text-align: center;
     font-size: 15px;
     width: 100px;
-}
+    /* background-color: black;
+    color: white; */
+} 
 
 #card {
     height: 400px;
@@ -110,4 +116,51 @@ p {
 #page2Head {
     align-items: center;
 
+}
+#continue {
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    margin-top: 180px;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+}
+/* #userName {
+    background-color: black;
+    color: white;
+} */
+#CardsBack {
+display: inline-grid;
+grid-template-columns: 175px 175px 175px 175px 175px 175px 175px;
+grid-template-rows: 300px 300px;
+gap: 40px;
+}
+
+.backs {
+height: 300px;
+}
+
+#page3Head {
+    color: white;
+}
+
+#p3construct {
+    padding: none;
+    margin: none;
+}
+
+#p3Head{
+    margin: 0px;
+    
+
+}
+
+.clickChoiceImage {
+    height: 150px;
+}
+
+#inputCard {
+    height: 150px;
 }
