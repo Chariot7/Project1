@@ -11,6 +11,7 @@ const majorArcana = {
         divinitoryMeaning: "Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.",
         reversed: "Negligence, absence, distribution, carelessness, apathy, nullity, vanity",
         image: "Images/RiderWaite/MajorArcana/theFool.jpg",
+        suit: "MajorArcana",
     },
     'The Magician': {
         name: 'The Magician',
@@ -22,6 +23,7 @@ const majorArcana = {
         divinitoryMeaning: "Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares of enemies; self-confidence, will; the Querent, if male.",
         reversed: "Physician, Magus, mental disease, disgrace, disquiet.",
         image: "Images/RiderWaite/MajorArcana/theMagician.jpg",
+        suit: "MajorArcana",
     },
     'The High Priestess': {
         name: 'The High Priestess',
@@ -33,6 +35,7 @@ const majorArcana = {
         divinitoryMeaning: "Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdom, science.",
         reversed: "Passion, moral or physical ardour, conceit, surface knowledge.",
         image: "Images/RiderWaite/MajorArcana/theHighPriestess.jpg",
+        suit: "MajorArcana",
     },
     'The Empress': {
         name: 'The Empress',
@@ -44,6 +47,7 @@ const majorArcana = {
         divinitoryMeaning: "Fruitfulness, action, initiative, length of days; the unknown, clandestine; also difficulty, doubt, ignorance.",
         reversed: "Light, truth, the unravelling of involved matters, public rejoicings; according to another reading, vacillation.",
         image: "Images/RiderWaite/MajorArcana/theEmpress.jpg",
+        suit: "MajorArcana",
     },
     'The Emperor': {
         name: 'The Emperor',
@@ -56,6 +60,7 @@ const majorArcana = {
         reversed: "Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity.",
         dateRange: 'March 21 - April 19',
         image: "Images/RiderWaite/MajorArcana/theEmperor.jpg",
+        suit: "MajorArcana",
     },
     'The Hierophant': {
         name: 'The Hierophant',
@@ -68,6 +73,7 @@ const majorArcana = {
         reversed: "Society, good understanding, concord, overkindness, weakness.",
         dateRange: 'April 20 - May 20',
         image: "Images/RiderWaite/MajorArcana/theHierophant.jpg",
+        suit: "MajorArcana",
     },
     'The Lovers': {
         name: 'The Lovers',
@@ -80,6 +86,7 @@ const majorArcana = {
         reversed: "Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.",
         dateRange: 'May 21 - June 20',
         image: "Images/RiderWaite/MajorArcana/theLovers.jpg",
+        suit: "MajorArcana",
     },
     'The Chariot': {
         name: 'The Chariot',
@@ -92,6 +99,7 @@ const majorArcana = {
         reversed: "Riot, quarrel, dispute, litigation, defeat.",
         dateRange: 'June 21 - July 22',
         image: "Images/RiderWaite/MajorArcana/theChariot.jpg",
+        suit: "MajorArcana",
     },
     
     'Strength': {
@@ -105,6 +113,7 @@ const majorArcana = {
         reversed: "Despotism, abuse if power, weakness, discord, sometimes even disgrace.",
         dateRange: 'July 23 - Augut 22',
         image: "Images/RiderWaite/MajorArcana/strength.jpg",
+        suit: "MajorArcana",
     },
     'The Hermit': {
         name: 'The Hermit',
@@ -117,6 +126,7 @@ const majorArcana = {
         reversed: " Concealment, disguise, policy, fear, unreasoned caution.",
         dateRange: 'August 23 - September 22',
         image: "Images/RiderWaite/MajorArcana/theHermit.jpg",
+        suit: "MajorArcana",
     },
     'Wheel of Fortune': {
         name: 'Wheel of Fortune',
@@ -128,6 +138,7 @@ const majorArcana = {
         divinitoryMeaning: "Destiny, fortune, success, elevation, luck, felicity.",
         reversed: "Increase, abundance, superfluity.",
         image: "Images/RiderWaite/MajorArcana/wheelOfFortune.jpg",
+        suit: "MajorArcana",
         
     },
     'Justice': {
@@ -141,6 +152,7 @@ const majorArcana = {
         reversed: "Law in all its departments, legal complications, bigotry, bias, excessive severity.",
         dateRange: 'September 23 - October 22',
         image: "Images/RiderWaite/MajorArcana/justice.jpg",
+        suit: "MajorArcana",
     },
     'The Hanged Man': {
         name: 'The Hanged Man',
@@ -152,6 +164,7 @@ const majorArcana = {
         divinitoryMeaning: "Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.",
         reversed: "Selfishness, the crowd, body politic.",
         image: "Images/RiderWaite/MajorArcana/theHangedMan.jpg",
+        suit: "MajorArcana",
         
     },
     'Death': {
@@ -165,6 +178,7 @@ const majorArcana = {
         reversed: "Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed",
         dateRange: 'October 23 - November 21',
         image: "Images/RiderWaite/MajorArcana/death.jpg",
+        suit: "MajorArcana",
     },
     'Temperance': {
         name: 'Temperance',
@@ -177,6 +191,7 @@ const majorArcana = {
         reversed: "Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent; also disunion, unfortunate combinations, competing interests.",
         dateRange: "November 22 - December 21",
         image: "Images/RiderWaite/MajorArcana/temperance.jpg",
+        suit: "MajorArcana",
     },
     'The Devil': {
         name: 'The Devil',
@@ -189,6 +204,7 @@ const majorArcana = {
         reversed: "Evil fatality, weakness, pettiness, blindness.",
         dateRange: "December 22 - January 19",
         image: "Images/RiderWaite/MajorArcana/theDevil.jpg",
+        suit: "MajorArcana",
     },
     'The Tower': {
         name: 'The Tower',
@@ -200,6 +216,7 @@ const majorArcana = {
         divinitoryMeaning: "Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.",
         reversed: "According to one account, the same in a lesser degree also oppression, imprisonment, tyranny.",
         image: "Images/RiderWaite/MajorArcana/theTower.jpg",
+        suit: "MajorArcana",
     },
     'The Star': {
         name: 'The Star',
@@ -212,6 +229,7 @@ const majorArcana = {
         reversed: "Arrogance, haughtiness, impotence.",
         dateRange: "January 20 - February 18",
         image: "Images/RiderWaite/MajorArcana/theStar.jpg",
+        suit: "MajorArcana",
     },
     
     'The Moon': {
@@ -225,6 +243,7 @@ const majorArcana = {
         reversed: "Instability, inconstancy, silence, lesser degrees of deception and error.",
         dateRange: "February 19 - March 20",
         image: "Images/RiderWaite/MajorArcana/theMoon.jpg",
+        suit: "MajorArcana",
     },
     
     'The Sun': {
@@ -237,6 +256,7 @@ const majorArcana = {
         divinitoryMeaning: "Material happiness, fortunate marriage, contentment.",
         reversed: "The same in a lesser sense.",
         image: "Images/RiderWaite/MajorArcana/theSun.jpg",
+        suit: "MajorArcana",
     },
     
     'The Last Judgement': {
@@ -249,6 +269,7 @@ const majorArcana = {
         divinitoryMeaning: "Change of position, renewal, outcome. Another account specifies total loss though lawsuit.",
         reversed: "Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.",
         image: "Images/RiderWaite/MajorArcana/judgement.jpg",
+        suit: "MajorArcana",
     },
     
     'The World': {
@@ -261,6 +282,7 @@ const majorArcana = {
         divinitoryMeaning: "Assured success, recompense, voyage, route, emigration, flight, change of place.",
         reversed: "Inertia, fixity, stagnation, permanence.",
         image: "Images/RiderWaite/MajorArcana/theWorld.jpg",
+        suit: "MajorArcana",
     },
 
 }
@@ -281,6 +303,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/ace.jpg",
+                suit: "Wands",
             },
             '2': {
                 name: '2 of Wands',
@@ -291,6 +314,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/2.jpg",
+                suit: "Wands",
             },
             '3': {
                 name: '3 of Wands',
@@ -303,6 +327,7 @@ const minorArcana = {
                 dateRange: '',
                 goodOrBad: 1,
                 image: "Images/RiderWaite/Wands/3.jpg",
+                suit: "Wands",
             },
             '4': {
                 name: '4 of Wands',
@@ -316,6 +341,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/4.jpg",
+                suit: "Wands",
             },
             '5': {
                 name: '5 of Wands',
@@ -326,6 +352,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/5.jpg",
+                suit: "Wands",
             },
             '6': {
                 name: '6 of Wands',
@@ -336,6 +363,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/6.jpg",
+                suit: "Wands",
             },
             '7': {
                 name: '7 of Wands',
@@ -347,6 +375,7 @@ const minorArcana = {
                 reversed: null,
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/7.jpg",
+                suit: "Wands",
             },
             '8': {
                 name: '8 of Wands',
@@ -358,6 +387,7 @@ const minorArcana = {
                 reversed: null,
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/8.jpg",
+                suit: "Wands",
 
             },
             '9': {
@@ -369,6 +399,7 @@ const minorArcana = {
                 reversed: null,
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/9.jpg",
+                suit: "Wands",
 
             },
             '10': {
@@ -381,6 +412,7 @@ const minorArcana = {
                 reversed: null,
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/10.jpg",
+                suit: "Wands",
 
             },
             'Page': {
@@ -394,6 +426,7 @@ const minorArcana = {
                 dateRange: '',
                 conditional: 1,
                 image: "Images/RiderWaite/Wands/page.jpg",
+                suit: "Wands",
             },
             'Knight': {
                 name: 'Knight of Wands',
@@ -405,6 +438,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/knight.jpg",
+                suit: "Wands",
 
             },
             'Queen': {
@@ -416,6 +450,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/queen.jpg",
+                suit: "Wands",
             },
             'King': {
                 name: 'King of Wands',
@@ -426,6 +461,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/king.jpg",
+                suit: "Wands",
             },
         }
     },
@@ -442,6 +478,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/ace.jpg",
+                suit: "Cups"
             },
             '2': {
                 name: '2 of Cups',
@@ -454,6 +491,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/2.jpg",
+                suit: "Cups"
             },
             '3': {
                 name: '3 of Cups',
@@ -466,6 +504,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/3.jpg",
+                suit: "Cups"
             },
             '4': {
                 name: '4 of Cups',
@@ -477,6 +516,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/4.jpg",
+                suit: "Cups"
             },
             '5': {
                 name: '5 of Cups',
@@ -488,6 +528,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/5.jpg",
+                suit: "Cups"
             },
             '6': {
                 name: '6 of Cups',
@@ -499,6 +540,7 @@ const minorArcana = {
                 reversed: 'Inheritance to fall in quickly.',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/6.jpg",
+                suit: "Cups"
             },
             '7': {
                 name: '7 of Cups',
@@ -510,6 +552,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/7.jpg",
+                suit: "Cups"
 
             },
             '8': {
@@ -522,6 +565,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/8.jpg",
+                suit: "Cups"
             },
             '9': {
                 name: '9 of Cups',
@@ -532,6 +576,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/9.jpg",
+                suit: "Cups"
             },
             '10': {
                 name: '10 of Cups',
@@ -543,6 +588,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/10.jpg",
+                suit: "Cups"
             },
             'Page': {
                 name: 'Page of Cups',
@@ -553,6 +599,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/page.jpg",
+                suit: "Cups"
             },
             'Knight': {
                 name: 'Knight of Cups',
@@ -563,6 +610,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/knight.jpg",
+                suit: "Cups"
             },
             'Queen': {
                 name: 'Queen of Cups',
@@ -573,6 +621,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/queen.jpg",
+                suit: "Cups"
             },
             'King': {
                 name: 'King of Cups',
@@ -583,6 +632,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/king.jpg",
+                suit: "Cups"
             },
         }
     },
@@ -598,6 +648,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/ace.jpg",
+                suit: "Pentacles"
             },
             '2': {
                 name: '2 of Pentacles',
@@ -607,6 +658,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/2.jpg",
+                suit: "Pentacles",
             },
             '3': {
                 name: '3 of Pentacles ',
@@ -616,6 +668,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/3.jpg",
+                suit: "Pentacles",
             },
             '4': {
                 name: '4 of Pentacles ',
@@ -625,6 +678,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/4.jpg",
+                suit: "Pentacles",
             },
             '5': {
                 name: '5 of Pentacles ',
@@ -634,6 +688,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/5.jpg",
+                suit: "Pentacles",
             },
             '6': {
                 name: '6 of Pentacles ',
@@ -643,6 +698,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/6.jpg",
+                suit: "Pentacles",
             },
             '7': {
                 name: '7 of Pentacles ',
@@ -652,6 +708,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/7.jpg",
+                suit: "Pentacles",
             },
             '8': {
                 name: '8 of Pentacles ',
@@ -661,6 +718,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/8.jpg",
+                suit: "Pentacles",
             },
             '9': {
                 name: '9 of Pentacles ',
@@ -670,6 +728,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/9.jpg",
+                suit: "Pentacles",
             },
             '10': {
                 name: '10 of Pentacles ',
@@ -679,6 +738,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/10.jpg",
+                suit: "Pentacles",
             },
             'Page': {
                 name: 'Page of Pentacles ',
@@ -688,6 +748,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/page.jpg",
+                suit: "Pentacles",
             },
             'Knight': {
                 name: 'Knight of Pentacles',
@@ -697,6 +758,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/knight.jpg",
+                suit: "Pentacles",
             },
             'Queen': {
                 name: 'Queen of Pentacles',
@@ -706,6 +768,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/queen.jpg",
+                suit: "Pentacles",
             },
             'King': {
                 name: 'King of Pentacles',
@@ -715,6 +778,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/king.jpg",
+                suit: "Pentacles",
             },
         }
     },
@@ -730,6 +794,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/ace.jpg",
+                suit: "Swords",
             },
             '2': {
                 name: '2 of Swords',
@@ -739,6 +804,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/2.jpg",
+                suit: "Swords",
             },
             '3': {
                 name: '3 of Swords',
@@ -748,6 +814,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/3.jpg",
+                suit: "Swords",
             },
             '4': {
                 name: '4 of Swords',
@@ -757,6 +824,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/4.jpg",
+                suit: "Swords",
             },
             '5': {
                 name: '5 of Swords',
@@ -766,6 +834,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/5.jpg",
+                suit: "Swords",
             },
             '6': {
                 name: '6 of Swords',
@@ -775,6 +844,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/6.jpg",
+                suit: "Swords",
             },
             '7': {
                 name: '7 of Swords',
@@ -784,6 +854,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/7.jpg",
+                suit: "Swords",
             },
             '8': {
                 name: '8 of Swords',
@@ -793,6 +864,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/8.jpg",
+                suit: "Swords",
             },
             '9': {
                 name: '9 of Swords',
@@ -802,6 +874,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/9.jpg",
+                suit: "Swords",
             },
             '10': {
                 name: '10 of Swords',
@@ -811,6 +884,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/10.jpg",
+                suit: "Swords",
             },
             'Page': {
                 name: 'Page of Swords',
@@ -820,6 +894,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/page.jpg",
+                suit: "Swords",
             },
             'Knight': {
                 name: 'Knight of Swords',
@@ -829,6 +904,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/knight.jpg",
+                suit: "Swords",
             },
             'Queen': {
                 name: 'Queen of Swords',
@@ -837,7 +913,8 @@ const minorArcana = {
                 divinitoryMeaning: "",
                 reversed: '',
                 dateRange: '',
-                image: 'Images/RiderWaite/Swords/queen.jpg'
+                image: 'Images/RiderWaite/Swords/queen.jpg',
+                suit: "Swords",
             },
             'King': {
                 name: 'King of Swords',
@@ -847,6 +924,7 @@ const minorArcana = {
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/king.jpg",
+                suit: "Swords",
             },
         }
     },
@@ -1100,12 +1178,47 @@ function page4Mirror(){
 
 }
     let b;
+    let flipCount = 0;
 function cardFlip(evt) {
     let b = evt.target
     b.src = selectedCards[b.id].image;
-    console.log(b)
-    console.log(selectedCards[0])
+    flipCount += 1;
+    if(flipCount === 10){
+        matchCount();
+    }
 }
+let suitCount;
+function matchCount(){
+    suitCount = selectedCards.reduce(function (acc, type) {
+        acc[type.suit] = acc[type.suit] ? acc[type.suit] + 1 : 1 ;
+        return acc;
+    }, {});
+    console.log(suitCount);
+    matchesRender();
+};
+
+function matchesRender(){
+    if(suitCount.Cups >=2){
+        console.log("cups")
+        selectedCards
+    }
+    if(suitCount.Wands >=2){
+        console.log("wands")
+        
+    }
+    if(suitCount.Swords >=2){
+        console.log("swords")
+        
+    }
+    if(suitCount.Pentacles >=2){
+        console.log("pentacles")
+        
+    }
+    if(suitCount.MajorArcana >=2){
+        console.log("Major Arcana")
+
+    }
+};
 // const allCards = { ...minorArcana, ...majorArcana}
 
 // console.log(allCards)
