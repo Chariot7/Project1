@@ -130,13 +130,13 @@ p {
 } */
 #CardsBack {
 display: inline-grid;
-grid-template-columns: 175px 175px 175px 175px 175px 175px 175px;
+grid-template-columns: 175px 175px 175px 175px 175px 175px 175px 175px 175px;
 grid-template-rows: 300px 300px;
-gap: 40px;
+gap: 12px;
 }
 
 .backs {
-height: 300px;
+height: 250px;
 }
 
 #page3Head {
@@ -155,11 +155,20 @@ height: 300px;
 }
 
 .clickChoiceImage {
-    height: 150px;
+    height: 200px;
+    padding: 30px;
+}
+.clickChoiceImage2 {
+    height: 200px;
+    padding: 0px;
 }
 
 #inputCard {
-    height: 150px;
+    height: 200px;
+    padding: 30px;
+    position: absolute;
+    left: 200px;
+    top: 392px;
 }
 
 #spinner{
@@ -175,4 +184,30 @@ height: 300px;
     text-align: center;
     margin-top: 90px;
     padding-top: 30px;
+}
+#spreadRight{
+    display: inline-grid;
+    grid-template-columns: 175px;
+    grid-template-rows: 200px 200px 200px 200px;
+    position: absolute;
+    right: 200px;
+    top: 68px;
+    gap: 15px;
+}
+#cross{
+    display: inline-grid;
+    grid-template-columns: 175px 175px 175px;
+    grid-template-rows: 200px 200px 200px;
+    align-items: center;
+    gap: 25px;
+    padding: 50px;
+}
+
+#mid{
+    position: absolute;
+    transform: rotate(90deg);
+    text-align: center;
+    align-items: center;
+    top: 415px;
+    left: 830px;
 }

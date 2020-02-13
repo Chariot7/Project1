@@ -10,7 +10,7 @@ const majorArcana = {
         alternativeNames: 'The Spirit of Ether',
         divinitoryMeaning: "Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.",
         reversed: "Negligence, absence, distribution, carelessness, apathy, nullity, vanity",
-        image: "Images/MajorArcana/theFool.jpg",
+        image: "Images/RiderWaite/MajorArcana/theFool.jpg",
     },
     'The Magician': {
         name: 'The Magician',
@@ -21,7 +21,7 @@ const majorArcana = {
         alternativeNames: 'The Magus of Power',
         divinitoryMeaning: "Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares of enemies; self-confidence, will; the Querent, if male.",
         reversed: "Physician, Magus, mental disease, disgrace, disquiet.",
-        image: "Images/MajorArcana/theMagician.jpg",
+        image: "Images/RiderWaite/MajorArcana/theMagician.jpg",
     },
     'The High Priestess': {
         name: 'The High Priestess',
@@ -32,7 +32,7 @@ const majorArcana = {
         alternativeNames: 'The Priestess of The Silver Star',
         divinitoryMeaning: "Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdom, science.",
         reversed: "Passion, moral or physical ardour, conceit, surface knowledge.",
-        image: "Images/MajorArcana/theHighPriestess.jpg",
+        image: "Images/RiderWaite/MajorArcana/theHighPriestess.jpg",
     },
     'The Empress': {
         name: 'The Empress',
@@ -43,7 +43,7 @@ const majorArcana = {
         alternativeNames: "The Daughter of the Mighty One's",
         divinitoryMeaning: "Fruitfulness, action, initiative, length of days; the unknown, clandestine; also difficulty, doubt, ignorance.",
         reversed: "Light, truth, the unravelling of involved matters, public rejoicings; according to another reading, vacillation.",
-        image: "Images/MajorArcana/theEmpress.jpg",
+        image: "Images/RiderWaite/MajorArcana/theEmpress.jpg",
     },
     'The Emperor': {
         name: 'The Emperor',
@@ -55,7 +55,7 @@ const majorArcana = {
         divinitoryMeaning: "Stability, power, protection, realization; a great person; aid, reason, conviction; also authority and will.",
         reversed: "Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity.",
         dateRange: 'March 21 - April 19',
-        image: "Images/MajorArcana/theEmperor.jpg",
+        image: "Images/RiderWaite/MajorArcana/theEmperor.jpg",
     },
     'The Hierophant': {
         name: 'The Hierophant',
@@ -67,7 +67,7 @@ const majorArcana = {
         divinitoryMeaning: "Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.",
         reversed: "Society, good understanding, concord, overkindness, weakness.",
         dateRange: 'April 20 - May 20',
-        image: "Images/MajorArcana/theHierophant.jpg",
+        image: "Images/RiderWaite/MajorArcana/theHierophant.jpg",
     },
     'The Lovers': {
         name: 'The Lovers',
@@ -79,7 +79,7 @@ const majorArcana = {
         divinitoryMeaning: "Attraction, love, beauty, trials overcome.",
         reversed: "Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.",
         dateRange: 'May 21 - June 20',
-        image: "Images/MajorArcana/theLovers.jpg",
+        image: "Images/RiderWaite/MajorArcana/theLovers.jpg",
     },
     'The Chariot': {
         name: 'The Chariot',
@@ -91,7 +91,7 @@ const majorArcana = {
         divinitoryMeaning: "Succour, providence also war, triumph, presumption, vengeance, trouble.",
         reversed: "Riot, quarrel, dispute, litigation, defeat.",
         dateRange: 'June 21 - July 22',
-        image: "Images/MajorArcana/theChariot.jpg",
+        image: "Images/RiderWaite/MajorArcana/theChariot.jpg",
     },
     
     'Strength': {
@@ -104,7 +104,7 @@ const majorArcana = {
         divinitoryMeaning: "Power, energy, action, courage, magnanimity; also complete success and honours.",
         reversed: "Despotism, abuse if power, weakness, discord, sometimes even disgrace.",
         dateRange: 'July 23 - Augut 22',
-        image: "Images/MajorArcana/strength.jpg",
+        image: "Images/RiderWaite/MajorArcana/strength.jpg",
     },
     'The Hermit': {
         name: 'The Hermit',
@@ -116,7 +116,7 @@ const majorArcana = {
         divinitoryMeaning: "Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.",
         reversed: " Concealment, disguise, policy, fear, unreasoned caution.",
         dateRange: 'August 23 - September 22',
-        image: "Images/MajorArcana/theHermit.jpg",
+        image: "Images/RiderWaite/MajorArcana/theHermit.jpg",
     },
     'Wheel of Fortune': {
         name: 'Wheel of Fortune',
@@ -127,7 +127,7 @@ const majorArcana = {
         alternativeNames: "Lord of the Forces of Life",
         divinitoryMeaning: "Destiny, fortune, success, elevation, luck, felicity.",
         reversed: "Increase, abundance, superfluity.",
-        image: "Images/MajorArcana/wheelOfFortune.jpg",
+        image: "Images/RiderWaite/MajorArcana/wheelOfFortune.jpg",
         
     },
     'Justice': {
@@ -140,7 +140,7 @@ const majorArcana = {
         divinitoryMeaning: "Equity, rightness, probity, executive; triumph of the deserving side in law.",
         reversed: "Law in all its departments, legal complications, bigotry, bias, excessive severity.",
         dateRange: 'September 23 - October 22',
-        image: "Images/MajorArcana/justice.jpg",
+        image: "Images/RiderWaite/MajorArcana/justice.jpg",
     },
     'The Hanged Man': {
         name: 'The Hanged Man',
@@ -151,7 +151,7 @@ const majorArcana = {
         alternativeNames: "Spirit of the Mighty Waters",
         divinitoryMeaning: "Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.",
         reversed: "Selfishness, the crowd, body politic.",
-        image: "Images/MajorArcana/theHangedMan.jpg",
+        image: "Images/RiderWaite/MajorArcana/theHangedMan.jpg",
         
     },
     'Death': {
@@ -164,7 +164,7 @@ const majorArcana = {
         divinitoryMeaning: "-End, mortality, destruction, corruption also, for a man, the loss of a benefactor for a woman, many contrarieties; for a maid, failure of marriage projects.",
         reversed: "Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed",
         dateRange: 'October 23 - November 21',
-        image: "Images/MajorArcana/death.jpg",
+        image: "Images/RiderWaite/MajorArcana/death.jpg",
     },
     'Temperance': {
         name: 'Temperance',
@@ -176,7 +176,7 @@ const majorArcana = {
         divinitoryMeaning: "Economy, moderation, frugality, management, accommodation. ",
         reversed: "Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent; also disunion, unfortunate combinations, competing interests.",
         dateRange: "November 22 - December 21",
-        image: "Images/MajorArcana/temperance.jpg",
+        image: "Images/RiderWaite/MajorArcana/temperance.jpg",
     },
     'The Devil': {
         name: 'The Devil',
@@ -188,7 +188,7 @@ const majorArcana = {
         divinitoryMeaning: "Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.",
         reversed: "Evil fatality, weakness, pettiness, blindness.",
         dateRange: "December 22 - January 19",
-        image: "Images/MajorArcana/theDevil.jpg",
+        image: "Images/RiderWaite/MajorArcana/theDevil.jpg",
     },
     'The Tower': {
         name: 'The Tower',
@@ -199,7 +199,7 @@ const majorArcana = {
         alternativeNames: "Lord of the Host of the Mighty",
         divinitoryMeaning: "Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.",
         reversed: "According to one account, the same in a lesser degree also oppression, imprisonment, tyranny.",
-        image: "Images/MajorArcana/theTower.jpg",
+        image: "Images/RiderWaite/MajorArcana/theTower.jpg",
     },
     'The Star': {
         name: 'The Star',
@@ -211,7 +211,7 @@ const majorArcana = {
         divinitoryMeaning: "Loss, theft, privation, abandonment; another reading says-hope and bright prospects,",
         reversed: "Arrogance, haughtiness, impotence.",
         dateRange: "January 20 - February 18",
-        image: "Images/MajorArcana/theStar.jpg",
+        image: "Images/RiderWaite/MajorArcana/theStar.jpg",
     },
     
     'The Moon': {
@@ -224,7 +224,7 @@ const majorArcana = {
         divinitoryMeaning: "Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.",
         reversed: "Instability, inconstancy, silence, lesser degrees of deception and error.",
         dateRange: "February 19 - March 20",
-        image: "Images/MajorArcana/theMoon.jpg",
+        image: "Images/RiderWaite/MajorArcana/theMoon.jpg",
     },
     
     'The Sun': {
@@ -236,7 +236,7 @@ const majorArcana = {
         alternativeNames: "Lord of the Fire of the World",
         divinitoryMeaning: "Material happiness, fortunate marriage, contentment.",
         reversed: "The same in a lesser sense.",
-        image: "Images/MajorArcana/theSun.jpg",
+        image: "Images/RiderWaite/MajorArcana/theSun.jpg",
     },
     
     'The Last Judgement': {
@@ -248,7 +248,7 @@ const majorArcana = {
         alternativeNames: "Spirt of the Primal Fire",
         divinitoryMeaning: "Change of position, renewal, outcome. Another account specifies total loss though lawsuit.",
         reversed: "Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.",
-        image: "Images/MajorArcana/theLastJudgement.jpg",
+        image: "Images/RiderWaite/MajorArcana/judgement.jpg",
     },
     
     'The World': {
@@ -260,7 +260,7 @@ const majorArcana = {
         alternativeNames: "The Great One of the Night of Time",
         divinitoryMeaning: "Assured success, recompense, voyage, route, emigration, flight, change of place.",
         reversed: "Inertia, fixity, stagnation, permanence.",
-        image: "Images/MajorArcana/theWorld.jpg",
+        image: "Images/RiderWaite/MajorArcana/theWorld.jpg",
     },
 
 }
@@ -701,7 +701,7 @@ const minorArcana = {
             'Queen': {
                 name: 'Queen of Pentacles',
                 attribution: 'Water of Earth',
-                description: 'The face suggests that of a dark woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein',
+                description: 'The face suggests that of a woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein',
                 divinitoryMeaning: 'Opulence, generosity, magnificence, security, liberty.',
                 reversed: '',
                 dateRange: '',
@@ -824,8 +824,8 @@ const minorArcana = {
             'Knight': {
                 name: 'Knight of Swords',
                 attribution: 'Air of Air',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'He is riding in full course, as if scattering his enemies. In the design he is really a prototypical hero of romantic chivalry. He might almost be Galahad, whose sword is swift and sure because he is clean of heart.',
+                divinitoryMeaning: 'Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/knight.jpg",
@@ -842,8 +842,8 @@ const minorArcana = {
             'King': {
                 name: 'King of Swords',
                 attribution: 'Fire of Air',
-                description: 'He is riding in full course, as if scattering his enemies. In the design he is really a prototypical hero of romantic chivalry. He might almost be Galahad, whose sword is swift and sure because he is clean of heart.',
-                divinitoryMeaning: 'Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality.',
+                description: '',
+                divinitoryMeaning: '',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/king.jpg",
@@ -857,7 +857,7 @@ let clickArray = [];
 let cardsArray = [];
 let shuffleCards = [];
 let birthMonth, birthDay, userName
-let shufCard;
+// let shufCard;
 let x = 0
 let selectedCards = [];
 
@@ -902,10 +902,17 @@ page3.style.display = "none";
 let page4 = document.getElementById("page4");
 page4.style.display = "none";
 
+let p4inputCard = document.getElementById("inputCard");
+p4inputCard.style.display = "none";
+
+
+let p4Click = document.querySelector("#selectedImages")
+
 /*----- event listeners -----*/
 submit.addEventListener('click', inputInfo);
 contin.addEventListener('click',  contNextPage);
-cardBacks.addEventListener('click', cardClick)
+cardBacks.addEventListener('click', cardClick);
+p4Click.addEventListener('click', cardFlip);
 
 /*----- functions -----*/
 
@@ -939,7 +946,7 @@ function inputInfo() {
     $("#enter").fadeOut(444);
     $("#submit").fadeOut(444);
     setTimeout(fadeIn, 444)
-
+    
     // contin.style.display = "inline";
     // card.style.display = "block"
     // orphicSmall.style.display = "inline"
@@ -985,19 +992,19 @@ function inputInfo() {
         cardName.innerText = minorArcana.pentacles.cards.Prince.name
     }
     if((birthMonth === "May" && birthDay >= 11) || (birthMonth === "June" && birthDay < 11)){
-        card.src = minorArcana.Swords.cards.Knight.image
-        description.innerText = minorArcana.Swords.cards.Knight.description
-        cardName.innerText = minorArcana.Swords.cards.Knight.name
+        card.src = minorArcana.swords.cards.Knight.image
+        description.innerText = minorArcana.swords.cards.Knight.description
+        cardName.innerText = minorArcana.swords.cards.Knight.name
     }
     if((birthMonth === "June" && birthDay >= 11) || (birthMonth === "July" && birthDay < 12)){
-        card.src = minorArcana.Cups.cards.Queen.image
-        description.innerText = minorArcana.Cups.cards.Queen.description
-        cardName.innerText = minorArcana.Cups.cards.Queen.name
+        card.src = minorArcana.cups.cards.Queen.image
+        description.innerText = minorArcana.cups.cards.Queen.description
+        cardName.innerText = minorArcana.cups.cards.Queen.name
     }
     if((birthMonth === "July" && birthDay >= 12) || (birthMonth === "August" && birthDay < 12)){
-        card.src = minorArcana.Wands.cards.Prince.image
-        description.innerText = minorArcana.Wands.cards.Prince.description
-        cardName.innerText = minorArcana.Wands.cards.Prince.name
+        card.src = minorArcana.wands.cards.Prince.image
+        description.innerText = minorArcana.wands.cards.Prince.description
+        cardName.innerText = minorArcana.wands.cards.Prince.name
     }
     if((birthMonth === "August" && birthDay >= 12) || (birthMonth === "September" && birthDay < 12)){
         card.src = minorArcana.pentacles.cards.Knight.image
@@ -1026,7 +1033,7 @@ function contNextPage() {
     // cardName.style.display = "none";
     spinner.style.display = "inline";
     Eye.style.display = "inline";
-    setTimeout(renderPage3, 4444)
+    setTimeout(renderPage3, 444)
 }
 function renderPage3(){
     // spinner.style.display = "none";
@@ -1043,9 +1050,14 @@ function page3Mirror() {
 
 
 function shuffle() {
-    for(let i = 0 ; i < 14 ; i++){
-    shufCard = Math.floor(Math.random() * 78)
-    shuffleCards.push(cardsArray[shufCard]);
+    for(let i = 0 ; i < 18 ; i++){
+    let shufCard = cardsArray[Math.floor(Math.random() * cardsArray.length)];
+    // shuffleCards.push(cardsArray[shufCard]);
+    const cardIdx = cardsArray.findIndex((e, i) => {
+        return e == shufCard
+    })
+    cardsArray.splice(cardIdx, 1 );
+    shuffleCards.push(shufCard);
     console.log(shuffleCards)
     console.log(cardsArray)
     }
@@ -1057,7 +1069,7 @@ function cardClick(evt) {
 if(i === "CardsBack") 
     return;
 clickArray.push(i);
-if(clickArray.length === 3) {
+if(clickArray.length === 10) {
     setTimeout(contPageFour, 444)   
     }  
 b.style.border = "3.5px solid orange"
@@ -1076,11 +1088,24 @@ function getCards() {
 
 function contPageFour() {
     $("#page3").fadeOut(444);
+    setTimeout(page4Mirror, 444)
     // page3.style.display = "none";
-    page4.style.display = "block";
-    document.getElementById("inputCard").src = card.src
+  
 }
 
+function page4Mirror(){
+    p4inputCard.src = card.src
+    $("#page4").fadeIn(333);
+    $("#inputCard").fadeIn(333);
+
+}
+    let b;
+function cardFlip(evt) {
+    let b = evt.target
+    b.src = selectedCards[b.id].image;
+    console.log(b)
+    console.log(selectedCards[0])
+}
 // const allCards = { ...minorArcana, ...majorArcana}
 
 // console.log(allCards)
