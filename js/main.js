@@ -1180,8 +1180,9 @@ function matchesRender(){
     if(suitCount.Swords >=3){
         for (let i = 0 ; i < flippedCards.length; i++){
             if (flippedCards[i].suit === "Swords"){
+                if(clickEvents[i].style.border !== "6px solid red"){
                 clickEvents[i].style.border = "4.5px double yellow";
-            }}
+            }}}
         document.getElementById("swords").innerText = `${suitCount.Swords} Swords: Focus on Intellect, Communication, Organizing Ideas, and Focus Itself`  
     }
     if(suitCount.Pentacles >=3){
