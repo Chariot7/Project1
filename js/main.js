@@ -286,7 +286,6 @@ const majorArcana = {
     },
 
 }
-
 const minorArcana = {
 
     wands: {
@@ -300,7 +299,6 @@ const minorArcana = {
                 description: 'A hand issuing from a cloud grasps a stout wand or club.',
                 divinitoryMeaning: 'This card represents the essence of the element of Fire in its inception. It is a solar-phallic outburst of flame from which spring lightnings in every direction. It is the primordial Energy of the Divine manifesting in Matter, at so early a stage that it is not yet definitely formulated as Will.',
                 divinitoryMeaningWaite: 'Creation, invention, enterprise, the powers which result in these; principle, beginning, source; birth, family, origin, and in a sense the virility which is behind them; the starting point of enterprises; according to another account, money, fortune, inheritance.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/ace.jpg",
                 suit: "Wands",
@@ -311,7 +309,6 @@ const minorArcana = {
                 attribution: 'Chokmah',
                 description: ' A tall man looks from a battlemented roof over sea and shore; he holds a globe in his right hand, while a staff in his left rests on the battlement; another is fixed in a ring. The Rose and Cross and Lily should be noticed on the left side.',
                 divinitoryMeaning: 'Represents Energy initiating a current of force, represents the Will in its most exalted form. It is an ideal Will, independent of any given object."For pure will, unassuaged of purpose, delivered from the lust of result, is every way perfect." AL. 1. 44. More, that is, in its earlier rather than its later form. For destruction may be regarded as the first step in the creative process. The virgin ovum must be broken in order to fertilize it. Fear and repulsion are therefore the primary reaction to the assault. Then, with understanding of the complete plan, willing surrender rejoices to co-operate. Six flames issue from the centre. This indicates the influence of the Sun, who is exalted in Aries. This is the creative Will.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/2.jpg",
                 suit: "Wands",
@@ -323,7 +320,6 @@ const minorArcana = {
                 description: "A calm, stately personage, with his back turned, looking from a cliff's edge at ships passing over the sea. Three staves are planted in the ground, and he leans slightly on one of them.",
                 divinitoryMeaning: 'This card refers to Binah in the suit of Fire, and so represents the establishment of primeval Energy. The Will has been trans mitted to the Mother, who conceives, prepares, and gives birth to, its manifestation. It refers to the Sun in Aries, the Sign in which he is exalted. The meaning is harmonious, for this is the beginning of Spring. For this reason one sees the wand taking the form of the Lotus in blossom. The Sun has enkindled the Great Mother.',
                 divinitoryMeaningWaite: 'He symbolizes established strength, enterprise, effort, trade, commerce, discovery; those are his ships, bearing his merchandise, which are sailing over the sea. The card also signifies able co-operation in business, as if the successful merchant prince were looking from his side towards yours with a view to help you',
-                reversed: '',
                 dateRange: '',
                 goodOrBad: 1,
                 image: "Images/RiderWaite/Wands/3.jpg",
@@ -338,7 +334,6 @@ const minorArcana = {
                 divinitoryMeaning: "indicates that one cannot establish one's work without tact and gentleness.",
                 divinitoryMeaningWaite: 'They are for once almost on the surface--country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace, and the perfected work of these',
                 keyWords: 'Perfected Work',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/4.jpg",
                 suit: "Wands",
@@ -349,7 +344,6 @@ const minorArcana = {
                 alternativeNames: 'Strife',
                 description: 'A posse of youths, who are brandishing staves, as if in sport or strife. It is mimic warfare',
                 divinitoryMeaning: 'Purely active Force, struggle',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/5.jpg",
                 suit: "Wands",
@@ -360,7 +354,6 @@ const minorArcana = {
                 alternativeNames: 'Victory',
                 description: 'A laurelled horseman bears one staff adorned with a laurel crown; footmen with staves are at his side.',
                 divinitoryMeaning: "This shows Energy in completely balanced manifestation, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth",
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/6.jpg",
                 suit: "Wands",
@@ -372,7 +365,6 @@ const minorArcana = {
                 description: "The army has been thrown into disorder; if victory is to be won, it will be by dint of individual valour-a 'soldiers' battle'.The flames are dispersed, and seem to attack in all directions without systematic purpose .",
                 divinitoryMeaning: 'Loss of balance, Loss of confidence, departure from equilibrium',
                 divinitoryMeaningWaite: 'It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business--negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him. ',
-                reversed: null,
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/7.jpg",
                 suit: "Wands",
@@ -384,7 +376,6 @@ const minorArcana = {
                 description: 'The card represents motion through the immovable-a flight of wands through an open country; but they draw to the term of their course. That which they signify is at hand; it may be even on the threshold.',
                 divinitoryMeaning: 'This card, represents energy of high velocity, such as furnishes the master-key to modern mathematical physics',
                 divinitoryMeaningWaite: 'Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love.',
-                reversed: null,
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/8.jpg",
                 suit: "Wands",
@@ -396,7 +387,6 @@ const minorArcana = {
                 attribution: 'Yesod',
                 description: 'The figure leans upon his staff and has an expectant look, as if awaiting an enemy. Behind are eight other staves--erect, in orderly disposition, like a palisade',
                 divinitoryMeaning: 'The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews, that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts--delay, suspension, adjournment',
-                reversed: null,
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/9.jpg",
                 suit: "Wands",
@@ -409,7 +399,6 @@ const minorArcana = {
                 description: 'The whole picture suggests Oppression and repression. It is a stupid and obstinate cruelty from which there is no escape. It is a Will which has not understood anything beyond its du]l purpose,its "lust of result", and will devour itself in the conflagrations it has evoked.',
                 divinitoryMeaning: ' Fire in its most destructive aspect.',
                 divinitoryMeaningWaite: 'The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit, there will be certain loss',
-                reversed: null,
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/10.jpg",
                 suit: "Wands",
@@ -422,7 +411,6 @@ const minorArcana = {
                 description: 'In a scene similar to the former, a young man stands in the act of proclamation. He is unknown but faithful, and his tidings are strange.',
                 divinitoryMeaning: 'Beside a man, he will bear favourable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence.',
                 keyWords: 'Brilliant, Daring, Individual, Irrational, All-Consuming',
-                reversed: '',
                 dateRange: '',
                 conditional: 1,
                 image: "Images/RiderWaite/Wands/page.jpg",
@@ -435,7 +423,6 @@ const minorArcana = {
                 description: 'He is shewn as if upon a journey, armed with a short wand, and although mailed is not on a warlike errand. He is passing mounds or pyramids. The motion of the horse is a key to the character of its rider, and suggests the precipitate mood, or things connected therewith',
                 divinitoryMeaning: 'Change of Residence',
                 keyWords: ' Departure, Absence, Flight',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/knight.jpg",
                 suit: "Wands",
@@ -447,7 +434,6 @@ const minorArcana = {
                 attribution: 'Water of Fire',
                 description: "The Wands throughout this suit are always in leaf, as it is a suit of life and animation. Emotionally and otherwise, the Queen's personality corresponds to that of the King, but is more magnetic.",
                 divinitoryMeaning: 'countrywoman, friendly, chaste, loving, honourable. Also, love of money, or a certain success in business. ',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/queen.jpg",
                 suit: "Wands",
@@ -458,7 +444,6 @@ const minorArcana = {
                 attribution: 'Fire of Fire',
                 description: 'The physical and emotional nature to which this card is attributed is dark, ardent, lithe, animated, impassioned, noble. The King uplifts a flowering wand, and wears, like his three correspondences in the remaining suits, what is called a cap of maintenance beneath his crown. He connects with the symbol of the lion, which is emblazoned on the back of his throne. ',
                 divinitoryMeaning: 'The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long. ',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/king.jpg",
                 suit: "Wands",
@@ -475,7 +460,6 @@ const minorArcana = {
                 attribution: 'Kether',
                 description: 'The waters are beneath, and thereon are water-lilies; the hand issues from the cloud, holding in its palm the cup, from which four streams are pouring; a dove, bearing in its bill a cross-marked Host, descends to place the Wafer in the Cup; the dew of water is falling on all sides. It is an intimation of that which may lie behind the Lesser Arcana.',
                 divinitoryMeaning: 'House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/ace.jpg",
                 suit: "Cups"
@@ -488,7 +472,6 @@ const minorArcana = {
                 description2: 'It shows the harmony of the  male and the female: inter preted in the largest sense. It is perfect and placid harmony, radiat ing an intensity of joy and ecstasy.',
                 divinitoryMeaning: 'Refers to Love, which recovers unity from dividuality by mutual annihilation.',
                 divinitoryMeaningWaite: 'Love, passion, friendship, affinity, union, concord, sympathy, the interrelation of the sexes, and--as a suggestion apart from all offices of divination--that desire which is not in Nature, but by which Nature is sanctified.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/2.jpg",
                 suit: "Cups"
@@ -501,7 +484,6 @@ const minorArcana = {
                 description2: 'This card requires great subtlety of interpretation. The pomegranate was the fruit which Persephone ate in the realms of Pluto, thereby enabling him to hold her in the lower world, even after the most powerful influence had been brought to bear. The lesson seems to be that the good things of life, although enjoyed,should be distrusted.',
                 divinitoryMeanin: ' There is here the fulifi ment of the Will of Love in abounding joy. It is the spiritual basis of fertility.',
                 divinitoryMeaningWaite: 'The conclusion of any matter in plenty, perfection and merriment; happy issue, victory, fulfilment, solace, healing',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/3.jpg",
                 suit: "Cups"
@@ -513,7 +495,6 @@ const minorArcana = {
                 description: 'A young man is seated under a tree and contemplates three cups set on the grass before him; an arm issuing from a cloud offers him another cup. His expression notwithstanding is one of discontent with his environment.',
                 divinitoryMeaning: 'the energy of this element, although ordered, balanced and (for the moment)stabilized, has lost the original purity of the conception.',
                 divinitoryMeaningWaite: 'Weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only; another wine, as if a fairy gift, is now offered the wastrel, but he sees no consolation therein. This is also a card of blended pleasure',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/4.jpg",
                 suit: "Cups"
@@ -525,7 +506,6 @@ const minorArcana = {
                 description: 'A dark, cloaked figure, looking sideways at three prone cups two others stand upright behind him; a bridge is in the background, leading to a small keep or holding.',
                 divinitoryMeaningWaite: ' It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration',
                 keyWords: ' Loss of Pleasure ',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/5.jpg",
                 suit: "Cups"
@@ -537,7 +517,6 @@ const minorArcana = {
                 description: 'Children in an old garden, their cups filled with flowers',
                 description2: 'Pleasure, in the title of this card, must be understood in its highest sense: it implies well-being, harmony of natural forces without effort or strain, ease, satisfaction.',
                 divinitoryMeaningWaite: 'A card of the past and of memories, looking back, as--for example--on childhood; happiness, enjoyment, but coming rather from the past; things that have vanished. Another reading reverses this, giving new relations, new knowledge, new environment, and then the children are disporting in an unfamiliar precinct',
-                reversed: 'Inheritance to fall in quickly.',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/6.jpg",
                 suit: "Cups"
@@ -549,7 +528,6 @@ const minorArcana = {
                 description: 'Strange chalices of vision, but the images are more especially those of the fantastic spirit.',
                 divinitoryMeaningWaite: 'Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.',
                 keyWords: "Options, Illusions",
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/7.jpg",
                 suit: "Cups"
@@ -562,7 +540,6 @@ const minorArcana = {
                 description: 'A man of dejected aspect is deserting the cups of his felicity, enterprise, undertaking or previous concern',
                 divinitoryMeaning: 'Move away from emotional attachments',
                 keyWords: 'Abandoned Sucess',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/8.jpg",
                 suit: "Cups"
@@ -573,7 +550,6 @@ const minorArcana = {
                 attribution: 'Yesod',
                 description: "A goodly personage has feasted to his heart's content, and abundant refreshment of wine is on the arched counter behind him, seeming to indicate that the future is also assured. The picture offers the material side only, but there are other aspects",
                 divinitoryMeaning: 'Concord, contentment, physical bien-être; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/9.jpg",
                 suit: "Cups"
@@ -585,7 +561,6 @@ const minorArcana = {
                 description: 'Appearance of Cups in a rainbow; it is contemplated in wonder and ecstacy by a man and woman below, evidently husband and wife. His right arm is about her; his left is raised upward; she raises her right arm. The two children dancing near them have not observed the prodigy but are happy after their own manner. There is a home-scene beyond.',
                 divinitoryMeaning: "Contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture-cards, a person who is taking charge of the Querent's interests; also the town, village or country inhabited by the Querent.",
                 keyWords: 'Perfected Success',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/10.jpg",
                 suit: "Cups"
@@ -596,7 +571,6 @@ const minorArcana = {
                 attribution: 'Earth of Fire',
                 description: 'A fair, pleasing, somewhat effeminate page, of studious and intent aspect, contemplates a fish rising from a cup to look at him. It is the pictures of the mind taking form.',
                 divinitoryMeaning: 'Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/page.jpg",
                 suit: "Cups"
@@ -607,7 +581,6 @@ const minorArcana = {
                 attribution: 'Air of Water',
                 description: 'Graceful, but not warlike; riding quietly, wearing a winged helmet, referring to those higher graces of the imagination which sometimes characterize this card. He too is a dreamer, but the images of the side of sense haunt him in his vision.',
                 divinitoryMeaning: 'Arrival, approach--sometimes that of a messenger; advances, proposition, demeanour, invitation, incitement.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/knight.jpg",
                 suit: "Cups"
@@ -618,7 +591,6 @@ const minorArcana = {
                 attribution: 'Water of Water',
                 description: 'Beautiful, fair, dreamy--as one who sees visions in a cup. This is, however, only one of her aspects; she sees, but she also acts, and her activity feeds her dream.',
                 divinitoryMeaning: 'Loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue;',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/queen.jpg",
                 suit: "Cups"
@@ -629,7 +601,6 @@ const minorArcana = {
                 attribution: 'Fire of Water',
                 description: 'He holds a short sceptre in his left hand and a great cup in his right; his throne is set upon the sea; on one side a ship is riding and on the other a dolphin is leaping. The implicit is that the Sign of the Cup naturally refers to water, which appears in all the court cards.',
                 divinitoryMeaning: 'Fair man, man of business, law, or divinity; responsible, equity, art and science, including those who profess science, law and art; creative intelligence.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/king.jpg",
                 suit: "Cups"
@@ -645,7 +616,6 @@ const minorArcana = {
                 attribution: 'Kether',
                 description: 'A hand--issuing, as usual, from a cloud--holds up a pentacle.',
                 divinitoryMeaning: 'Perfect contentment, felicity, ecstasy; also speedy intelligence; gold.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/ace.jpg",
                 suit: "Pentacles"
@@ -655,7 +625,6 @@ const minorArcana = {
                 attribution: 'Chokmah',
                 description: 'A young man, in the act of dancing, has a pentacle in either hand, and they are joined by that endless cord which is like the number 8 reversed.',
                 divinitoryMeaning: 'On the one hand it is represented as a card of gaiety, recreation and its connexions, which is the subject of the design; but it is read also as news and messages in writing, as obstacles, agitation, trouble, embroilment.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/2.jpg",
                 suit: "Pentacles",
@@ -665,7 +634,6 @@ const minorArcana = {
                 attribution: 'Binah',
                 description: 'A sculptor at his work in a monastery. Compare the design which illustrates the Eight of Pentacles. The apprentice or amateur therein has received his reward and is now at work in earnest.',
                 divinitoryMeaning: ' Métier, trade, skilled labour; usually, however, regarded as a card of nobility, aristocracy, renown, glory.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/3.jpg",
                 suit: "Pentacles",
@@ -675,7 +643,6 @@ const minorArcana = {
                 attribution: 'Chesed',
                 description: 'A crowned figure, having a pentacle over his crown, clasps another with hands and arms; two pentacles are under his feet. He holds to that which he has.',
                 divinitoryMeaning: 'The surety of possessions, cleaving to that which one has, gift, legacy, inheritance.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/4.jpg",
                 suit: "Pentacles",
@@ -685,7 +652,6 @@ const minorArcana = {
                 attribution: 'Geburah',
                 description: 'Two mendicants in a snow-storm pass a lighted casement.',
                 divinitoryMeaning: ' The card foretells material trouble above all, whether in the form illustrated--that is, destitution--or otherwise. For some cartomancists, it is a card of love and lovers-wife, husband, friend, mistress; also concordance, affinities. These alternatives cannot be harmonized.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/5.jpg",
                 suit: "Pentacles",
@@ -695,7 +661,6 @@ const minorArcana = {
                 attribution: 'Tiphareth',
                 description: 'A person in the guise of a merchant weighs money in a pair of scales and distributes it to the needy and distressed. It is a testimony to his own success in life, as well as to his goodness of heart.',
                 divinitoryMeaning: 'Presents, gifts, gratification another account says attention, vigilance now is the accepted time, present prosperity, etc.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/6.jpg",
                 suit: "Pentacles",
@@ -705,7 +670,6 @@ const minorArcana = {
                 attribution: 'Netzach',
                 description: 'A young man, leaning on his staff, looks intently at seven pentacles attached to a clump of greenery on his right; one would say that these were his treasures and that his heart was there.',
                 divinitoryMeaning: 'These are exceedingly contradictory; in the main, it is a card of money, business, barter; but one reading gives altercation, quarrels--and another innocence, ingenuity, purgation',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/7.jpg",
                 suit: "Pentacles",
@@ -715,7 +679,6 @@ const minorArcana = {
                 attribution: 'Hod',
                 description: 'An artist in stone at his work, which he exhibits in the form of trophies.',
                 divinitoryMeaning: 'Work, employment, commission, craftsmanship, skill in craft and business, perhaps in the preparatory stage.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/8.jpg",
                 suit: "Pentacles",
@@ -725,7 +688,6 @@ const minorArcana = {
                 attribution: 'Yesod',
                 description: 'A woman, with a bird upon her wrist, stands amidst a great abundance of grapevines in the garden of a manorial house. It is a wide domain, suggesting plenty in all things. Possibly it is her own possession and testifies to material well-being.',
                 divinitoryMeaning: 'Prudence, safety, success, accomplishment, certitude, discernment.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/9.jpg",
                 suit: "Pentacles",
@@ -735,7 +697,6 @@ const minorArcana = {
                 attribution: 'Malkuth',
                 description: "A man and woman beneath an archway which gives entrance to a house and domain. They are accompanied by a child, who looks curiously at two dogs accosting an ancient personage seated in the foreground. The child's hand is on one of them.",
                 divinitoryMeaning: 'Gain, riches; family matters, archives, extraction, the abode of a family.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/10.jpg",
                 suit: "Pentacles",
@@ -745,7 +706,6 @@ const minorArcana = {
                 attribution: 'Earth of Earth',
                 description: 'A youthful figure, looking intently at the pentacle which hovers over his raised hands. He moves slowly, insensible of that which is about him. ',
                 divinitoryMeaning: 'Application, study, scholarship, reflection another reading says news, messages and the bringer thereof; also rule, management. ',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/page.jpg",
                 suit: "Pentacles",
@@ -755,7 +715,6 @@ const minorArcana = {
                 attribution: 'Air of Earth',
                 description: 'He rides a slow, enduring, heavy horse, to which his own aspect corresponds. He exhibits his symbol, but does not look therein.',
                 divinitoryMeaning: 'Utility, serviceableness, interest, responsibility, rectitude-all on the normal and external plane.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/knight.jpg",
                 suit: "Pentacles",
@@ -763,9 +722,8 @@ const minorArcana = {
             'Queen': {
                 name: 'Queen of Pentacles',
                 attribution: 'Water of Earth',
-                description: 'The face suggests that of a woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein',
+                description: 'The face suggests that of an earthly woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein',
                 divinitoryMeaning: 'Opulence, generosity, magnificence, security, liberty.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/queen.jpg",
                 suit: "Pentacles",
@@ -775,7 +733,6 @@ const minorArcana = {
                 attribution: 'Fire of Earth',
                 description: "The bull's head should be noted as a recurrent symbol on the throne. The sign of this suit is represented throughout as engraved or blazoned with the pentagram, typifying the correspondence of the four elements in human nature and that by which they may be governed. In many old Tarot packs this suit stood for current coin, money, deniers.",
                 divinitoryMeaning: 'Valour, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind; success in these paths.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/king.jpg",
                 suit: "Pentacles",
@@ -791,7 +748,6 @@ const minorArcana = {
                 attribution: 'Kether',
                 description: 'A hand issues from a cloud, grasping as word, the point of which is encircled by a crown.',
                 divinitoryMeaning: 'Triumph, the excessive degree in everything, conquest, triumph of force. It is a card of great force, in love as well as in hatred. The crown may carry a much higher significance than comes usually within the sphere of fortune-telling.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/ace.jpg",
                 suit: "Swords",
@@ -801,7 +757,6 @@ const minorArcana = {
                 attribution: 'Chokmah',
                 description: 'A hoodwinked female figure balances two swords upon her shoulders.',
                 divinitoryMeaning: 'Conformity and the equipoise which it suggests, courage, friendship, concord in a state of arms; another reading gives tenderness, affection, intimacy. The suggestion of harmony and other favourable readings must be considered in a qualified manner, as Swords generally are not symbolical of beneficent forces in human affairs.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/2.jpg",
                 suit: "Swords",
@@ -811,7 +766,6 @@ const minorArcana = {
                 attribution: 'Binah',
                 description: 'Three swords piercing a heart; cloud and rain behind.',
                 divinitoryMeaning: 'Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/3.jpg",
                 suit: "Swords",
@@ -821,7 +775,6 @@ const minorArcana = {
                 attribution: 'Chesed',
                 description: 'The effigy of a knight in the attitude of prayer, at full length upon his tomb.',
                 divinitoryMeaning: "Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design.",
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/4.jpg",
                 suit: "Swords",
@@ -831,7 +784,6 @@ const minorArcana = {
                 attribution: 'Geburah',
                 description: 'A disdainful man looks after two retreating and dejected figures. Their swords lie upon the ground. He carries two others on his left shoulder, and a third sword is in his right hand, point to earth. He is the master in possession of the field.',
                 divinitoryMeaning: 'Degradation, destruction, revocation, infamy, dishonour, loss, with the variants and analogues of these.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/5.jpg",
                 suit: "Swords",
@@ -841,7 +793,6 @@ const minorArcana = {
                 attribution: 'Tiphareth',
                 description: 'A ferryman carrying passengers in his punt to the further shore. The course is smooth, and seeing that the freight is light, it may be noted that the work is not beyond his strength. ',
                 divinitoryMeaning: ' journey by water, route, way, envoy, commissionary, expedient.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/6.jpg",
                 suit: "Swords",
@@ -851,7 +802,6 @@ const minorArcana = {
                 attribution: 'Netzach',
                 description: 'A man in the act of carrying away five swords rapidly; the two others of the card remain stuck in the ground. A camp is close at hand.',
                 divinitoryMeaning: 'Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/7.jpg",
                 suit: "Swords",
@@ -861,7 +811,6 @@ const minorArcana = {
                 attribution: 'Hod',
                 description: 'A woman, bound and hoodwinked, with the swords of the card about her. Yet it is rather a card of temporary durance than of irretrievable bondage.',
                 divinitoryMeaning: ' Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness. Reversed: Disquiet, difficulty, opposition, accident, treachery; what is unforeseen; fatality.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/8.jpg",
                 suit: "Swords",
@@ -871,7 +820,6 @@ const minorArcana = {
                 attribution: 'Yesod',
                 description: 'One seated on her couch in lamentation, with the swords over her. She is as one who knows no sorrow which is like unto hers. It is a card of utter desolation.',
                 divinitoryMeaning: 'Death, failure, miscarriage, delay, deception, disappointment, despair.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/9.jpg",
                 suit: "Swords",
@@ -881,7 +829,6 @@ const minorArcana = {
                 attribution: 'Malkuth',
                 description: 'A prostrate figure, pierced by all the swords belonging to the card. ',
                 divinitoryMeaning: 'Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/10.jpg",
                 suit: "Swords",
@@ -891,7 +838,6 @@ const minorArcana = {
                 attribution: 'Earth of Air',
                 description: 'A lithe, active figure holds a sword upright in both hands, while in the act of swift walking. He is passing over rugged land, and about his way the clouds are collocated wildly. He is alert and lithe, looking this way and that, as if an expected enemy might appear at any moment.',
                 divinitoryMeaning: 'Authority, overseeing, secret service, vigilance, spying, examination, and the qualities thereto belonging.',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/page.jpg",
                 suit: "Swords",
@@ -901,7 +847,6 @@ const minorArcana = {
                 attribution: 'Air of Air',
                 description: 'He is riding in full course, as if scattering his enemies. In the design he is really a prototypical hero of romantic chivalry. He might almost be Galahad, whose sword is swift and sure because he is clean of heart.',
                 divinitoryMeaning: 'Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. ',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/knight.jpg",
                 suit: "Swords",
@@ -911,7 +856,6 @@ const minorArcana = {
                 attribution: 'Water of Air',
                 description: 'The person symbolized by this card should be intensely perceptive, a keen observer, a subtle interpreter, an intense individualist, swift and accurate at recording ideas; in action confident, in spirit gracious and just. Her movements will be graceful, and her ability in dancing and balancing exceptional.',
                 divinitoryMeaning: "Sharpness, Clarity",
-                reversed: '',
                 dateRange: '',
                 image: 'Images/RiderWaite/Swords/queen.jpg',
                 suit: "Swords",
@@ -921,14 +865,13 @@ const minorArcana = {
                 attribution: 'Fire of Air',
                 description: 'He is active, clever, subtle, fierce, delicate, courageous, skilful, but inclined to domineer. Also to overvalue small things, unless well dignified.',
                 divinitoryMeaning: 'The idea of judgment and all its connexions-power, command, authority, militant intelligence, law, offices of the crown, and so forth. ',
-                reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/king.jpg",
                 suit: "Swords",
             },
         }
     },
-
+    
 }
 /*----- app's state (variables) -----*/
 let clickArray = [];
@@ -940,6 +883,8 @@ let x = 0
 let selectedCards = [];
 let flippedCards = [];
 clickEvents = [];
+let b;
+let flipCount = 0;
 /*----- cached element references -----*/
 
 let enter = document.getElementById("enter");
@@ -952,6 +897,9 @@ let birthDate = document.getElementById("birthday");
 birthDate.style.display = "block";
 
 let submit = document.getElementById("submit");
+
+let snake = document.getElementById("snake")
+snake.style.display = "none";
 
 /*---page2---*/
 
@@ -992,22 +940,19 @@ page4.style.display = "none";
 let p4inputCard = document.getElementById("inputCard");
 p4inputCard.style.display = "none";
 
-
 let p4Click = document.querySelector("#selectedImages")
 
 /*----- event listeners -----*/
 submit.addEventListener('click', inputInfo);
-contin.addEventListener('click',  contNextPage);
+contin.addEventListener('click',  contNextPageMirror);
 cardBacks.addEventListener('click', cardClick);
 p4Click.addEventListener('click', cardFlip);
-
+card.addEventListener('click', fadeInn)
 /*----- functions -----*/
 
 for (let k in minorArcana) {
-    // if(k == 'cards'){
     for (let j in minorArcana[k]) {
         if (j == 'cards') {
-            // console.log('hit')
             for (let l in minorArcana[k][j]) {
             
                 cardsArray.push(minorArcana[k][j][l])
@@ -1015,29 +960,28 @@ for (let k in minorArcana) {
         }
     }
 };
-
 for(let b in majorArcana) {
     cardsArray.push(majorArcana[b])
 }
-
-
 function inputInfo() {
     birthMonth = document.getElementById("month").value ;
     birthDay = document.getElementById("day").value ;
     userName = document.getElementById("userName").value ;
     inName.innerText = userName + ", The Card of Your Birthday is..."
-    // birthDate.style.display = "none";
-    // enter.style.display = "none";
-    // submit.style.display = "none";
     $("#birthday").fadeOut(444);
     $("#enter").fadeOut(444);
     $("#submit").fadeOut(444);
-    setTimeout(fadeIn, 444)
+    setTimeout(page1a, 444);
+}
+function page1a(){
+    $("#inputName").fadeIn(333);
+    $("#card").fadeIn(333);
+    $("#orphicSmall").fadeIn(333);
+    $("#snake").fadeIn(333);
     
-    // contin.style.display = "inline";
-    // card.style.display = "block"
-    // orphicSmall.style.display = "inline"
-    
+}
+function fadeInn() {
+
     if((birthMonth === "September" && birthDay >= 12) || (birthMonth === "October" && birthDay < 13)){
         card.src = minorArcana.swords.cards.Queen.image
         description.innerText = minorArcana.swords.cards.Queen.description
@@ -1110,64 +1054,45 @@ function inputInfo() {
         cardName.innerText = minorArcana.pentacles.cards.King.name
         divine.innerText = minorArcana.pentacles.cards.King.divinitoryMeaning
     }
-    // need to add name: and images to card files in order for them to show up.
-}
-// function page1a(){
-
-// }
-
-function fadeIn() {
+    $("#inputName").fadeOut(001)
+    $("#snake").fadeOut(001)
     $("#continue").fadeIn(333);
-    $("#card").fadeIn(333);
-    $("#orphicSmall").fadeIn(333);
     $("#cardName").fadeIn(333);
     $("#meaning").fadeIn(333);
     $("#divinitory").fadeIn(333);
-    $("#inputName").fadeIn(333);
 }
-
-function contNextPage() {
+function contNextPageMirror(){
     $("#continue").fadeOut(444);
     $("#card").fadeOut(444);
     $("#meaning").fadeOut(444);
     $("#cardName").fadeOut(444);
     $("#divinitory").fadeOut(444);
-    // contin.style.display = "none";
-    // card.style.display = "none";
-    // description.style.display = "none";
-    // cardName.style.display = "none";
+    setTimeout(contNextPage, 444)
+}
+function contNextPage() {
     spinner.style.display = "inline";
     Eye.style.display = "inline";
     setTimeout(renderPage3, 5555)
 }
 function renderPage3(){
-    // spinner.style.display = "none";
-    // Eye.style.display = "none";
     $("#spinner").fadeOut(555);
     $("#Eye").fadeOut(555);
     setTimeout(page3Mirror, 555)
     shuffle();
 }
-
 function page3Mirror() {
     $("#page3").fadeIn(555);
 }
-
-
 function shuffle() {
     for(let i = 0 ; i < 18 ; i++){
     let shufCard = cardsArray[Math.floor(Math.random() * cardsArray.length)];
-    // shuffleCards.push(cardsArray[shufCard]);
     const cardIdx = cardsArray.findIndex((e, i) => {
         return e == shufCard
     })
     cardsArray.splice(cardIdx, 1 );
     shuffleCards.push(shufCard);
-    console.log(shuffleCards)
-    console.log(cardsArray)
     }
 }
-
 function cardClick(evt) {
     let i = evt.target.id;
     let b = evt.target;
@@ -1178,35 +1103,21 @@ if(clickArray.length === 10) {
     setTimeout(contPageFour, 444)   
     }  
 b.style.border = "3.5px solid orange"
-console.log('clicked')
-console.log(i)
-console.log(clickArray)
 getCards();
 };
-
 function getCards() {
     selectedCards.push(shuffleCards[clickArray[x]])
     x = x + 1;
-    console.log(selectedCards)
     }
-
-
 function contPageFour() {
     $("#page3").fadeOut(444);
     setTimeout(page4Mirror, 444)
-    // page3.style.display = "none";
-  
 }
-
 function page4Mirror(){
     p4inputCard.src = card.src
     $("#page4").fadeIn(333);
     $("#inputCard").fadeIn(333);
-
 }
-    let b;
-    let flipCount = 0;
-    
 function cardFlip(evt) {
     let b = evt.target
     b.src = selectedCards[b.id].image;
@@ -1223,9 +1134,7 @@ function matchCount(){
         acc[type.suit] = acc[type.suit] ? acc[type.suit] + 1 : 1 ;
         return acc;
     }, {});
-    console.log(suitCount);
     matchesRender();
-    console.log("fuck you")
 };
 //---------Iterate through clicked cards array and iterate through visible cards src. Also consider making a flipped cards array in the cardFlip function that holds the evt.target-----
 let isInputCardFound = false;
@@ -1235,35 +1144,35 @@ function matchesRender(){
         if (flippedCards[i].suit === "Cups"){
             clickEvents[i].style.border = "4.4px double blue";
         }}
-        document.getElementById("cups").innerText = `Cups: ${suitCount.Cups}`
+        document.getElementById("cups").innerText = `Cups: ${suitCount.Cups}___ Focus on Emotions, Love, Creativity and Sex `
     }
     if(suitCount.Wands >=3){
         for (let i = 0 ; i < flippedCards.length; i++){
             if (flippedCards[i].suit === "Wands"){
                 clickEvents[i].style.border = "4.4px double orange";
             }}
-        document.getElementById("wands").innerText = `Wands: ${suitCount.Wands}`
+        document.getElementById("wands").innerText = `Wands: ${suitCount.Wands}___ Focus on Willpower, Intention, Exercise, and Your Life Purpose`
     }
     if(suitCount.Swords >=3){
         for (let i = 0 ; i < flippedCards.length; i++){
             if (flippedCards[i].suit === "Swords"){
                 clickEvents[i].style.border = "4.4px double yellow";
             }}
-        document.getElementById("swords").innerText = `Swords: ${suitCount.Swords}`  
+        document.getElementById("swords").innerText = `Swords: ${suitCount.Swords}___ Focus on Intellect, Communication, and Organizing Ideas`  
         }
     if(suitCount.Pentacles >=3){
         for (let i = 0 ; i < flippedCards.length; i++){
             if (flippedCards[i].suit === "Pentacles"){
                     clickEvents[i].style.border = "4.4px double green";
             }}
-        document.getElementById("swords").innerText = `Pentacles: ${suitCount.Pentacles}` 
+        document.getElementById("swords").innerText = `Pentacles: ${suitCount.Pentacles}___ Focus on Money, Practicality, Organization, and Physical Health` 
     }
     
     if(suitCount.MajorArcana >= 0){
         for (let i = 0 ; i < flippedCards.length; i++){
             if (flippedCards[i].image === card.src ){
                 clickEvents[i].style.border = "4.4px double white";
-                document.getElementById("bonus").innerText = `BONUS: ${flippedCards[i].name}` 
+                document.getElementById("bonus").innerText = `BONUS: ${flippedCards[i].name} ___ You are on the right path` 
                 isInputCardFound = true ;
                 p4inputCard.style.border = "4px double white";
             }}
@@ -1273,29 +1182,9 @@ function matchesRender(){
             if (flippedCards[i].suit === "MajorArcana"){
                 clickEvents[i].style.border = "4.4px double purple";
             }}
-        document.getElementById("majorArcana").innerText = `Major Arcana: ${suitCount.MajorArcana}` 
+        document.getElementById("majorArcana").innerText = `Major Arcana: ${suitCount.MajorArcana}___ Destiny Moment` 
     } 
     if(suitCount.Cups < 3 && suitCount.Wands < 3 && suitCount.Swords < 3 && suitCount.Pentacles < 3 && suitCount.MajorArcana < 3 && isInputCardFound !== true) {
         document.getElementById("Lose").innerText = `Your Life Will Amount To Nothing`
     }
 };
-
-// const allCards = { ...minorArcana, ...majorArcana}
-
-// console.log(allCards)
-
-// winning combinations 
-
-// ---An abundance of trumps may indicate a destiny moment or period in the clients life; a grand, karmic moment over which they have little or no AbortController.---
-
-//--- An abundance of small cards points to a momet of perios of time in the clients life over which thye have much control. their behavior and decisions can change lots of things ---
-
-//--- An abundace of court cards might suggest other people involved are key factors. they might be identified by the birth dates the card represents. 
-
-//--- An abundance of Wands  might suggest the clients life purpose, will, career, or business is a key factor.
-
-//---- An abundance of Cups might suggest issues such as love, art ,creativity, or sex are key factors
-
-//--- An abundance of Swords might suggest conflict, anxiety or health is a key
-
-//--- An abundance of Disks might suggest that money is a key factor

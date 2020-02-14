@@ -47,8 +47,7 @@ input {
     width: 200px;
     height: 30px;
     font-size: 15px;
-    /* background-color: black;
-    color: white; */
+    
 }
 
 #day {
@@ -58,8 +57,6 @@ input {
     width: 100px;
     height: 30px;
     font-size: 15px;
-    /* background-color: black;
-    color: white; */
 }
 
 #submit {
@@ -68,15 +65,23 @@ input {
     text-align: center;
     font-size: 15px;
     width: 100px;
-    /* background-color: black;
-    color: white; */
 } 
+
+#bdayCard {
+    height: 400px;
+    text-align: center;
+    align-items: center;
+    margin-top: 15%;
+    margin-left: 0px;
+    left: 15%;
+    position: absolute;
+}
 
 #card {
     height: 400px;
     text-align: center;
     align-items: center;
-    margin-top: 15%;
+    top: 380px;
     margin-left: 0px;
     left: 15%;
     position: absolute;
@@ -91,7 +96,8 @@ input {
 }
 #inputName {
     color: white;
-    font-size: 30px;
+    font-size: 50px;
+    text-align: center;
 }
 
 p {
@@ -137,7 +143,13 @@ p {
 }
 #page2Head {
     align-items: center;
+}
 
+#snake {
+    position: absolute;
+    right: 275px;
+    height: 400px;
+    top: 400px;
 }
 #continue {
     align-items: center;
@@ -150,11 +162,8 @@ p {
     bottom: 7px;
     position: absolute;
     margin-top: 170px;
+    left: 47.5%;
 }
-/* #userName {
-    background-color: black;
-    color: white;
-} */
 #CardsBack {
 display: inline-grid;
 grid-template-columns: 175px 175px 175px 175px 175px 175px 175px 175px 175px;
@@ -177,8 +186,6 @@ height: 250px;
 
 #p3Head{
     margin: 0px;
-    
-
 }
 
 .clickChoiceImage {
@@ -209,7 +216,7 @@ height: 250px;
     height: 150px;
     align-items: center;
     text-align: center;
-    margin-top: 90px;
+    margin-top: 200px;
     padding-top: 30px;
 }
 #spreadRight{
