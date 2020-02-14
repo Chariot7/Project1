@@ -193,7 +193,7 @@ const majorArcana = {
         image: "Images/RiderWaite/MajorArcana/temperance.jpg",
         suit: "MajorArcana",
     },
-    'The Devil': {
+    'theDevil': {
         name: 'The Devil',
         description: "The design is an accommodation, mean or harmony, between several motives mentioned in the first part. The Horned Goat of Mendes, with wings like those of a bat, is standing on an altar. At the pit of the stomach there is the sign of Mercury. The right hand is upraised and extended, being the reverse of that benediction which is given by the Hierophant in the fifth card. In the left hand there is a great flaming torch, inverted towards the earth. A reversed pentagram is on the forehead. There is a ring in front of the altar, from which two chains are carried to the necks of two figures, male and female. These are analogous with those of the fifth card, as if Adam and Eve after the Fall. Hereof is the chain and fatality of the material life. The figures are tailed, to signify the animal nature, but there is human intelligence in the faces, and he who is exalted above them is not to be their master for ever. Even now, he is also a bondsman, sustained by the evil that is in him and blind to the liberty of service. With more than his usual derision for the arts which he pretended to respect and interpret as a master therein, Éliphas Lévi affirms that the Baphometic figure is occult science and magic. Another commentator says that in the Divine world it signifies predestination, but there is no correspondence in that world with the things which below are of the brute. What it does signify is the Dweller on the Threshold without the Mystical Garden when those are driven forth therefrom who have eaten the forbidden fruit.",
         hebrewLetter: 'Ayin',
@@ -1139,52 +1139,72 @@ function matchCount(){
 //---------Iterate through clicked cards array and iterate through visible cards src. Also consider making a flipped cards array in the cardFlip function that holds the evt.target-----
 let isInputCardFound = false;
 function matchesRender(){
-    if(suitCount.Cups >=3){
-        for (let i = 0 ; i < flippedCards.length ; i++){
-        if (flippedCards[i].suit === "Cups"){
-            clickEvents[i].style.border = "4.4px double blue";
-        }}
-        document.getElementById("cups").innerText = `Cups: ${suitCount.Cups}___ Focus on Emotions, Love, Creativity and Sex `
-    }
-    if(suitCount.Wands >=3){
-        for (let i = 0 ; i < flippedCards.length; i++){
-            if (flippedCards[i].suit === "Wands"){
-                clickEvents[i].style.border = "4.4px double orange";
-            }}
-        document.getElementById("wands").innerText = `Wands: ${suitCount.Wands}___ Focus on Willpower, Intention, Exercise, and Your Life Purpose`
-    }
-    if(suitCount.Swords >=3){
-        for (let i = 0 ; i < flippedCards.length; i++){
-            if (flippedCards[i].suit === "Swords"){
-                clickEvents[i].style.border = "4.4px double yellow";
-            }}
-        document.getElementById("swords").innerText = `Swords: ${suitCount.Swords}___ Focus on Intellect, Communication, and Organizing Ideas`  
-        }
-    if(suitCount.Pentacles >=3){
-        for (let i = 0 ; i < flippedCards.length; i++){
-            if (flippedCards[i].suit === "Pentacles"){
-                    clickEvents[i].style.border = "4.4px double green";
-            }}
-        document.getElementById("swords").innerText = `Pentacles: ${suitCount.Pentacles}___ Focus on Money, Practicality, Organization, and Physical Health` 
-    }
-    
     if(suitCount.MajorArcana >= 0){
         for (let i = 0 ; i < flippedCards.length; i++){
             if (flippedCards[i].image === card.src ){
                 clickEvents[i].style.border = "4.4px double white";
-                document.getElementById("bonus").innerText = `BONUS: ${flippedCards[i].name} ___ You are on the right path` 
+                document.getElementById("bonus").innerText = `BONUS: ${flippedCards[i].name} ___ You are on the right path!` 
                 isInputCardFound = true ;
                 p4inputCard.style.border = "4px double white";
+            } if (flippedCards[i].name === 'The Devil' || flippedCards[i].name === 'Death' || flippedCards[i].name ==='The Tower'){
+                clickEvents[i].style.border = "6px solid red"
+                let lose2 = document.getElementById("Lose2")
+                lose2.innerText = `!!!! ${flippedCards[i].name} !!!! YOU LOSE AT LIFE !!!!!`
+                lose2.style.color = "red"
+                console.log("Doo DOO DADDY!")
+            }
+        }
+    }
+    if(suitCount){
+       for (let i = 0 ; i < flippedCards.length; i++){
+           if(flippedCards[i].name === "3 of Swords" || flippedCards[i].name === "9 of Swords" || flippedCards[i].name === "10 of Swords"){
+               clickEvents[i].style.border = "6px solid red"
+               document.getElementById("Lose3").innerText = `!!!! ${flippedCards[i].name} !!!! OOUUCHHHH!!!!!`
+           }
+       } 
+    }
+    if(suitCount.Cups >=3){
+        for (let i = 0 ; i < flippedCards.length ; i++){
+        if (flippedCards[i].suit === "Cups"){
+            clickEvents[i].style.border = "5px double blue";
+        }}
+        document.getElementById("cups").innerText = ` ${suitCount.Cups} Cups: Focus on Emotions, Love, Creativity and Sex `
+    }
+    if(suitCount.Wands >=3){
+        for (let i = 0 ; i < flippedCards.length; i++){
+            if (flippedCards[i].suit === "Wands"){
+                clickEvents[i].style.border = "4.5px double orange";
             }}
+        document.getElementById("wands").innerText = ` ${suitCount.Wands} Wands: Focus on Willpower, Intention, Exercise, and Your Life Purpose`
+    }
+    if(suitCount.Swords >=3){
+        for (let i = 0 ; i < flippedCards.length; i++){
+            if (flippedCards[i].suit === "Swords"){
+                clickEvents[i].style.border = "4.5px double yellow";
+            }}
+        document.getElementById("swords").innerText = `${suitCount.Swords} Swords: Focus on Intellect, Communication, Organizing Ideas, and Focus Itself`  
+    }
+    if(suitCount.Pentacles >=3){
+        for (let i = 0 ; i < flippedCards.length; i++){
+            if (flippedCards[i].suit === "Pentacles"){
+                    clickEvents[i].style.border = "4.5px double green";
+            }}
+        document.getElementById("swords").innerText = ` ${suitCount.Pentacles} Pentacles: Focus on Money, Practicality, Foundation, Organization, and Physical Health` 
     }
     if(suitCount.MajorArcana >=3){
         for (let i = 0 ; i < flippedCards.length; i++){
             if (flippedCards[i].suit === "MajorArcana"){
-                clickEvents[i].style.border = "4.4px double purple";
-            }}
-        document.getElementById("majorArcana").innerText = `Major Arcana: ${suitCount.MajorArcana}___ Destiny Moment` 
+                if (clickEvents[i].style.border !== "6px solid red"){
+                clickEvents[i].style.border = "5px double purple";
+            }}}
+        document.getElementById("majorArcana").innerText = ` ${suitCount.MajorArcana} Cards from the Major Arcana Means This Is A Destiny Moment!!!` 
     } 
     if(suitCount.Cups < 3 && suitCount.Wands < 3 && suitCount.Swords < 3 && suitCount.Pentacles < 3 && suitCount.MajorArcana < 3 && isInputCardFound !== true) {
         document.getElementById("Lose").innerText = `Your Life Will Amount To Nothing`
     }
+    
 };
+
+// 3 of swords 
+// 9 of swords
+// 10 0f swords
