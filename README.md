@@ -30,9 +30,4 @@ This game is using the Rider Waite deck and many of the descriptions are from A.
 ##Technologies Used
 HTML, CSS, JavaScript
 
-##Link to Game
-https://chariot7.github.io/Project1/
 
-Think of a question you would like to ask.
-
-##Next Steps
