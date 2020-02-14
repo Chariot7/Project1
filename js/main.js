@@ -1160,6 +1160,7 @@ function matchesRender(){
            if(flippedCards[i].name === "3 of Swords" || flippedCards[i].name === "9 of Swords" || flippedCards[i].name === "10 of Swords"){
                clickEvents[i].style.border = "6px solid red"
                document.getElementById("Lose3").innerText = `!!!! ${flippedCards[i].name} !!!! OOUUCHHHH!!!!!`
+               document.getElementById("Lose3").style.color = "red"
            }
        } 
     }
