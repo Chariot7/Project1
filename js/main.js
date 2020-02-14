@@ -1194,7 +1194,7 @@ function matchesRender(){
     if(suitCount.MajorArcana >=3){
         for (let i = 0 ; i < flippedCards.length; i++){
             if (flippedCards[i].suit === "MajorArcana"){
-                if (clickEvents[i].style.border !== "6px solid red"){
+                if (clickEvents[i].style.border !== "10px solid red"){
                 clickEvents[i].style.border = "5px double purple";
             }}}
         document.getElementById("majorArcana").innerText = ` ${suitCount.MajorArcana} Cards from the Major Arcana Means This Is A Destiny Moment!!!` 
