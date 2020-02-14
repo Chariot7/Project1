@@ -1147,7 +1147,7 @@ function matchesRender(){
                 isInputCardFound = true ;
                 p4inputCard.style.border = "4px double white";
             } if (flippedCards[i].name === 'The Devil' || flippedCards[i].name === 'Death' || flippedCards[i].name ==='The Tower'){
-                clickEvents[i].style.border = "6px solid red"
+                clickEvents[i].style.border = "10px solid red"
                 let lose2 = document.getElementById("Lose2")
                 lose2.innerText = `!!!! ${flippedCards[i].name} !!!! YOU LOSE AT LIFE !!!!!`
                 lose2.style.color = "red"
