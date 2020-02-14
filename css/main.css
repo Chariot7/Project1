@@ -22,7 +22,8 @@ h2 {
     color: white;
     text-align: center;
     padding-top: none;
-    margin-top: 10px;
+    margin: 7px;
+    font-size: 20px;
 }
 
 input {
@@ -41,8 +42,8 @@ input {
     height: 30px;
     text-align: center;
     align-items: center;
-    padding-top: 20px;
-    margin-top: 15px;
+    padding-top: 10px;
+    margin-top: 10px;
     width: 200px;
     height: 30px;
     font-size: 15px;
@@ -52,8 +53,8 @@ input {
 
 #day {
     height: 30px;
-    padding-top: 20px;
-    margin-top: 15px;
+    padding-top: 10px;
+    margin-top: 10px;
     width: 100px;
     height: 30px;
     font-size: 15px;
@@ -63,8 +64,7 @@ input {
 
 #submit {
     height: 30px;
-    padding-top: ;
-    margin-top: 15px;
+    margin-top: 10px;
     text-align: center;
     font-size: 15px;
     width: 100px;
@@ -76,8 +76,10 @@ input {
     height: 400px;
     text-align: center;
     align-items: center;
-    margin-top: 100px;
-    margin-left: 200px;
+    margin-top: 15%;
+    margin-left: 0px;
+    left: 15%;
+    position: absolute;
 }
 
 #cards {
@@ -87,20 +89,42 @@ input {
     flex-direction: row;
 
 }
+#inputName {
+    color: white;
+    font-size: 30px;
+}
 
 p {
     color: white;
     font-size: 30px;
-    padding: 40px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 0px;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin: auto;
+}
+
+#meaning {
+    margin: 60px;
+    margin-left: 35%;
+    margin-top: 3%;
+    padding-top: 9%;
+    margin-right: 8%;
+
+
+}
+#divinitory {
+    text-align: center;
+    font-size: 30px;
+    padding: 0;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 #cardName {
     color: white;
     padding-top: 0px;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 50px;
     font-size: 40px;
 }
 
@@ -109,6 +133,7 @@ p {
     align-items: center;
     height: 125px;
     padding-top: 10px;
+    margin-right: 0px;
 }
 #page2Head {
     align-items: center;
@@ -119,10 +144,12 @@ p {
     text-align: center;
     width: 100px;
     height: 30px;
-    margin-top: 180px;
     font-size: 15px;
     background-color: black;
     color: white;
+    bottom: 7px;
+    position: absolute;
+    margin-top: 170px;
 }
 /* #userName {
     background-color: black;
@@ -156,11 +183,11 @@ height: 250px;
 
 .clickChoiceImage {
     height: 200px;
-    padding: 30px;
+    padding: 3.5px;
 }
 .clickChoiceImage2 {
     height: 200px;
-    padding: 0px;
+    padding: 3.5px;
 }
 
 #inputCard {
@@ -196,11 +223,12 @@ height: 250px;
 }
 #cross{
     display: inline-grid;
-    grid-template-columns: 175px 175px 175px;
+    grid-template-columns: 120px 120px 120px;
     grid-template-rows: 200px 200px 200px;
     align-items: center;
-    gap: 25px;
+    gap: 45px;
     padding: 50px;
+    margin-right: 20px;
 }
 
 #mid{
@@ -208,6 +236,13 @@ height: 250px;
     transform: rotate(90deg);
     text-align: center;
     align-items: center;
-    top: 415px;
-    left: 830px;
+    top: 44%;
+    left: 46%;
+}
+h4 {
+    color: white;
+    font-size: 3vmin;
+    margin: .5vmin;
+    padding-right: 10px;
+    margin-right: 26px;
 }

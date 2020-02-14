@@ -446,7 +446,7 @@ const minorArcana = {
                 alternativeNames: 'Queen of the Thrones of Flame',
                 attribution: 'Water of Fire',
                 description: "The Wands throughout this suit are always in leaf, as it is a suit of life and animation. Emotionally and otherwise, the Queen's personality corresponds to that of the King, but is more magnetic.",
-                divinitoryMeaning: 'countrywoman, friendly, chaste, loving, honourable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business. ',
+                divinitoryMeaning: 'countrywoman, friendly, chaste, loving, honourable. Also, love of money, or a certain success in business. ',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Wands/queen.jpg",
@@ -617,7 +617,7 @@ const minorArcana = {
                 alternativeNames: 'Queen of the Thrones of Water',
                 attribution: 'Water of Water',
                 description: 'Beautiful, fair, dreamy--as one who sees visions in a cup. This is, however, only one of her aspects; she sees, but she also acts, and her activity feeds her dream.',
-                divinitoryMeaning: 'Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother.',
+                divinitoryMeaning: 'Loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue;',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/queen.jpg",
@@ -628,7 +628,7 @@ const minorArcana = {
                 alternativeNames: 'Prince of the Chariot of Waters',
                 attribution: 'Fire of Water',
                 description: 'He holds a short sceptre in his left hand and a great cup in his right; his throne is set upon the sea; on one side a ship is riding and on the other a dolphin is leaping. The implicit is that the Sign of the Cup naturally refers to water, which appears in all the court cards.',
-                divinitoryMeaning: 'Fair man, man of business, law, or divinity; responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence.',
+                divinitoryMeaning: 'Fair man, man of business, law, or divinity; responsible, equity, art and science, including those who profess science, law and art; creative intelligence.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Cups/king.jpg",
@@ -643,8 +643,8 @@ const minorArcana = {
             'Ace': {
                 name: 'Ace of Pentacles',
                 attribution: 'Kether',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A hand--issuing, as usual, from a cloud--holds up a pentacle.',
+                divinitoryMeaning: 'Perfect contentment, felicity, ecstasy; also speedy intelligence; gold.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/ace.jpg",
@@ -653,8 +653,8 @@ const minorArcana = {
             '2': {
                 name: '2 of Pentacles',
                 attribution: 'Chokmah',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A young man, in the act of dancing, has a pentacle in either hand, and they are joined by that endless cord which is like the number 8 reversed.',
+                divinitoryMeaning: 'On the one hand it is represented as a card of gaiety, recreation and its connexions, which is the subject of the design; but it is read also as news and messages in writing, as obstacles, agitation, trouble, embroilment.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/2.jpg",
@@ -663,8 +663,8 @@ const minorArcana = {
             '3': {
                 name: '3 of Pentacles ',
                 attribution: 'Binah',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A sculptor at his work in a monastery. Compare the design which illustrates the Eight of Pentacles. The apprentice or amateur therein has received his reward and is now at work in earnest.',
+                divinitoryMeaning: ' Métier, trade, skilled labour; usually, however, regarded as a card of nobility, aristocracy, renown, glory.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/3.jpg",
@@ -673,8 +673,8 @@ const minorArcana = {
             '4': {
                 name: '4 of Pentacles ',
                 attribution: 'Chesed',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A crowned figure, having a pentacle over his crown, clasps another with hands and arms; two pentacles are under his feet. He holds to that which he has.',
+                divinitoryMeaning: 'The surety of possessions, cleaving to that which one has, gift, legacy, inheritance.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/4.jpg",
@@ -683,8 +683,8 @@ const minorArcana = {
             '5': {
                 name: '5 of Pentacles ',
                 attribution: 'Geburah',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'Two mendicants in a snow-storm pass a lighted casement.',
+                divinitoryMeaning: ' The card foretells material trouble above all, whether in the form illustrated--that is, destitution--or otherwise. For some cartomancists, it is a card of love and lovers-wife, husband, friend, mistress; also concordance, affinities. These alternatives cannot be harmonized.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/5.jpg",
@@ -693,8 +693,8 @@ const minorArcana = {
             '6': {
                 name: '6 of Pentacles ',
                 attribution: 'Tiphareth',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A person in the guise of a merchant weighs money in a pair of scales and distributes it to the needy and distressed. It is a testimony to his own success in life, as well as to his goodness of heart.',
+                divinitoryMeaning: 'Presents, gifts, gratification another account says attention, vigilance now is the accepted time, present prosperity, etc.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/6.jpg",
@@ -703,8 +703,8 @@ const minorArcana = {
             '7': {
                 name: '7 of Pentacles ',
                 attribution: 'Netzach',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A young man, leaning on his staff, looks intently at seven pentacles attached to a clump of greenery on his right; one would say that these were his treasures and that his heart was there.',
+                divinitoryMeaning: 'These are exceedingly contradictory; in the main, it is a card of money, business, barter; but one reading gives altercation, quarrels--and another innocence, ingenuity, purgation',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/7.jpg",
@@ -713,8 +713,8 @@ const minorArcana = {
             '8': {
                 name: '8 of Pentacles ',
                 attribution: 'Hod',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'An artist in stone at his work, which he exhibits in the form of trophies.',
+                divinitoryMeaning: 'Work, employment, commission, craftsmanship, skill in craft and business, perhaps in the preparatory stage.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/8.jpg",
@@ -723,8 +723,8 @@ const minorArcana = {
             '9': {
                 name: '9 of Pentacles ',
                 attribution: 'Yesod',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A woman, with a bird upon her wrist, stands amidst a great abundance of grapevines in the garden of a manorial house. It is a wide domain, suggesting plenty in all things. Possibly it is her own possession and testifies to material well-being.',
+                divinitoryMeaning: 'Prudence, safety, success, accomplishment, certitude, discernment.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/9.jpg",
@@ -733,8 +733,8 @@ const minorArcana = {
             '10': {
                 name: '10 of Pentacles ',
                 attribution: 'Malkuth',
-                description: '',
-                divinitoryMeaning: '',
+                description: "A man and woman beneath an archway which gives entrance to a house and domain. They are accompanied by a child, who looks curiously at two dogs accosting an ancient personage seated in the foreground. The child's hand is on one of them.",
+                divinitoryMeaning: 'Gain, riches; family matters, archives, extraction, the abode of a family.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/10.jpg",
@@ -743,8 +743,8 @@ const minorArcana = {
             'Page': {
                 name: 'Page of Pentacles ',
                 attribution: 'Earth of Earth',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A youthful figure, looking intently at the pentacle which hovers over his raised hands. He moves slowly, insensible of that which is about him. ',
+                divinitoryMeaning: 'Application, study, scholarship, reflection another reading says news, messages and the bringer thereof; also rule, management. ',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/page.jpg",
@@ -753,8 +753,8 @@ const minorArcana = {
             'Knight': {
                 name: 'Knight of Pentacles',
                 attribution: 'Air of Earth',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'He rides a slow, enduring, heavy horse, to which his own aspect corresponds. He exhibits his symbol, but does not look therein.',
+                divinitoryMeaning: 'Utility, serviceableness, interest, responsibility, rectitude-all on the normal and external plane.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/knight.jpg",
@@ -773,8 +773,8 @@ const minorArcana = {
             'King': {
                 name: 'King of Pentacles',
                 attribution: 'Fire of Earth',
-                description: '',
-                divinitoryMeaning: '',
+                description: "The bull's head should be noted as a recurrent symbol on the throne. The sign of this suit is represented throughout as engraved or blazoned with the pentagram, typifying the correspondence of the four elements in human nature and that by which they may be governed. In many old Tarot packs this suit stood for current coin, money, deniers.",
+                divinitoryMeaning: 'Valour, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind; success in these paths.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Pentacles/king.jpg",
@@ -789,8 +789,8 @@ const minorArcana = {
             'Ace': {
                 name: 'Ace of Swords',
                 attribution: 'Kether',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A hand issues from a cloud, grasping as word, the point of which is encircled by a crown.',
+                divinitoryMeaning: 'Triumph, the excessive degree in everything, conquest, triumph of force. It is a card of great force, in love as well as in hatred. The crown may carry a much higher significance than comes usually within the sphere of fortune-telling.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/ace.jpg",
@@ -799,8 +799,8 @@ const minorArcana = {
             '2': {
                 name: '2 of Swords',
                 attribution: 'Chokmah',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A hoodwinked female figure balances two swords upon her shoulders.',
+                divinitoryMeaning: 'Conformity and the equipoise which it suggests, courage, friendship, concord in a state of arms; another reading gives tenderness, affection, intimacy. The suggestion of harmony and other favourable readings must be considered in a qualified manner, as Swords generally are not symbolical of beneficent forces in human affairs.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/2.jpg",
@@ -809,8 +809,8 @@ const minorArcana = {
             '3': {
                 name: '3 of Swords',
                 attribution: 'Binah',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'Three swords piercing a heart; cloud and rain behind.',
+                divinitoryMeaning: 'Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/3.jpg",
@@ -819,8 +819,8 @@ const minorArcana = {
             '4': {
                 name: '4 of Swords',
                 attribution: 'Chesed',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'The effigy of a knight in the attitude of prayer, at full length upon his tomb.',
+                divinitoryMeaning: "Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design.",
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/4.jpg",
@@ -829,8 +829,8 @@ const minorArcana = {
             '5': {
                 name: '5 of Swords',
                 attribution: 'Geburah',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A disdainful man looks after two retreating and dejected figures. Their swords lie upon the ground. He carries two others on his left shoulder, and a third sword is in his right hand, point to earth. He is the master in possession of the field.',
+                divinitoryMeaning: 'Degradation, destruction, revocation, infamy, dishonour, loss, with the variants and analogues of these.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/5.jpg",
@@ -839,8 +839,8 @@ const minorArcana = {
             '6': {
                 name: '6 of Swords',
                 attribution: 'Tiphareth',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A ferryman carrying passengers in his punt to the further shore. The course is smooth, and seeing that the freight is light, it may be noted that the work is not beyond his strength. ',
+                divinitoryMeaning: ' journey by water, route, way, envoy, commissionary, expedient.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/6.jpg",
@@ -849,8 +849,8 @@ const minorArcana = {
             '7': {
                 name: '7 of Swords',
                 attribution: 'Netzach',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A man in the act of carrying away five swords rapidly; the two others of the card remain stuck in the ground. A camp is close at hand.',
+                divinitoryMeaning: 'Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/7.jpg",
@@ -859,8 +859,8 @@ const minorArcana = {
             '8': {
                 name: '8 of Swords',
                 attribution: 'Hod',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A woman, bound and hoodwinked, with the swords of the card about her. Yet it is rather a card of temporary durance than of irretrievable bondage.',
+                divinitoryMeaning: ' Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness. Reversed: Disquiet, difficulty, opposition, accident, treachery; what is unforeseen; fatality.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/8.jpg",
@@ -869,8 +869,8 @@ const minorArcana = {
             '9': {
                 name: '9 of Swords',
                 attribution: 'Yesod',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'One seated on her couch in lamentation, with the swords over her. She is as one who knows no sorrow which is like unto hers. It is a card of utter desolation.',
+                divinitoryMeaning: 'Death, failure, miscarriage, delay, deception, disappointment, despair.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/9.jpg",
@@ -879,8 +879,8 @@ const minorArcana = {
             '10': {
                 name: '10 of Swords',
                 attribution: 'Malkuth',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A prostrate figure, pierced by all the swords belonging to the card. ',
+                divinitoryMeaning: 'Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/10.jpg",
@@ -889,8 +889,8 @@ const minorArcana = {
             'Page': {
                 name: 'Page of Swords',
                 attribution: 'Earth of Air',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'A lithe, active figure holds a sword upright in both hands, while in the act of swift walking. He is passing over rugged land, and about his way the clouds are collocated wildly. He is alert and lithe, looking this way and that, as if an expected enemy might appear at any moment.',
+                divinitoryMeaning: 'Authority, overseeing, secret service, vigilance, spying, examination, and the qualities thereto belonging.',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/page.jpg",
@@ -900,7 +900,7 @@ const minorArcana = {
                 name: 'Knight of Swords',
                 attribution: 'Air of Air',
                 description: 'He is riding in full course, as if scattering his enemies. In the design he is really a prototypical hero of romantic chivalry. He might almost be Galahad, whose sword is swift and sure because he is clean of heart.',
-                divinitoryMeaning: 'Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality.',
+                divinitoryMeaning: 'Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. ',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/knight.jpg",
@@ -909,8 +909,8 @@ const minorArcana = {
             'Queen': {
                 name: 'Queen of Swords',
                 attribution: 'Water of Air',
-                description: 'The person symbolized by this card should be intensely per ceptive, a keen observer, a subtle interpreter, an intense individualist, swift and accurate at recording ideas; in action confident, in spirit gracious and just. Her movements will be graceful, and her ability in dancing and balancing exceptional.',
-                divinitoryMeaning: "",
+                description: 'The person symbolized by this card should be intensely perceptive, a keen observer, a subtle interpreter, an intense individualist, swift and accurate at recording ideas; in action confident, in spirit gracious and just. Her movements will be graceful, and her ability in dancing and balancing exceptional.',
+                divinitoryMeaning: "Sharpness, Clarity",
                 reversed: '',
                 dateRange: '',
                 image: 'Images/RiderWaite/Swords/queen.jpg',
@@ -919,8 +919,8 @@ const minorArcana = {
             'King': {
                 name: 'King of Swords',
                 attribution: 'Fire of Air',
-                description: '',
-                divinitoryMeaning: '',
+                description: 'He is active, clever, subtle, fierce, delicate, courageous, skilful, but inclined to domineer. Also to overvalue small things, unless well dignified.',
+                divinitoryMeaning: 'The idea of judgment and all its connexions-power, command, authority, militant intelligence, law, offices of the crown, and so forth. ',
                 reversed: '',
                 dateRange: '',
                 image: "Images/RiderWaite/Swords/king.jpg",
@@ -938,7 +938,8 @@ let birthMonth, birthDay, userName
 // let shufCard;
 let x = 0
 let selectedCards = [];
-
+let flippedCards = [];
+clickEvents = [];
 /*----- cached element references -----*/
 
 let enter = document.getElementById("enter");
@@ -950,6 +951,13 @@ card.style.display = "none";
 let birthDate = document.getElementById("birthday");
 birthDate.style.display = "block";
 
+let submit = document.getElementById("submit");
+
+/*---page2---*/
+
+let inName = document.getElementById("inputName");
+inName.style.display = "none"
+
 let cardName = document.getElementById("cardName");
 cardName.style.display = "none"
 
@@ -959,7 +967,8 @@ orphicSmall.style.display = "none";
 let description = document.getElementById("meaning");
 description.style.display = "none";
 
-let submit = document.getElementById("submit");
+let divine = document.getElementById("divinitory")
+divine.style.display = "none"
 
 let contin = document.getElementById("continue");
 contin.style.display = "none";
@@ -1016,7 +1025,7 @@ function inputInfo() {
     birthMonth = document.getElementById("month").value ;
     birthDay = document.getElementById("day").value ;
     userName = document.getElementById("userName").value ;
-    
+    inName.innerText = userName + ", The Card of Your Birthday is..."
     // birthDate.style.display = "none";
     // enter.style.display = "none";
     // submit.style.display = "none";
@@ -1033,64 +1042,79 @@ function inputInfo() {
         card.src = minorArcana.swords.cards.Queen.image
         description.innerText = minorArcana.swords.cards.Queen.description
         cardName.innerText = minorArcana.swords.cards.Queen.name
+        divine.innerText = minorArcana.swords.cards.Queen.divinitoryMeaning
     }
     if((birthMonth === "October" && birthDay >= 13) || (birthMonth === "November" && birthDay < 13)){
         card.src = minorArcana.cups.cards.Knight.image
         description.innerText = minorArcana.cups.cards.Knight.description
         cardName.innerText = minorArcana.cups.cards.Knight.name
+        divine.innerText = minorArcana.cups.cards.Knight.divinitoryMeaning
     }
     if((birthMonth === "November" && birthDay >= 13) || (birthMonth === "December" && birthDay < 13)){
-        card.src = minorArcana.wands.cards.Knight.image
-        description.innerText = minorArcana.wands.cards.Knight.description
-        cardName.innerText = minorArcana.wands.cards.Knight.name
+        card.src = minorArcana.wands.cards.King.image
+        description.innerText = minorArcana.wands.cards.King.description
+        cardName.innerText = minorArcana.wands.cards.King.name
+        divine.innerText = minorArcana.wands.cards.King.divinitoryMeaning
     }
     if((birthMonth === "December" && birthDay >= 13) || (birthMonth === "January" && birthDay < 10)){
         card.src = minorArcana.pentacles.cards.Queen.image
         description.innerText = minorArcana.pentacles.cards.Queen.description
         cardName.innerText = minorArcana.pentacles.cards.Queen.name
+        divine.innerText = minorArcana.pentacles.cards.Queen.divinitoryMeaning
     }
     if((birthMonth === "January" && birthDay >= 10) || (birthMonth === "February" && birthDay < 9)){
-        card.src = minorArcana.swords.cards.Prince.image
-        description.innerText = minorArcana.swords.cards.Prince.description
-        cardName.innerText = minorArcana.swords.cards.Prince.name
+        card.src = minorArcana.swords.cards.Knight.image
+        description.innerText = minorArcana.swords.cards.Knight.description
+        cardName.innerText = minorArcana.swords.cards.Knight.name
+        divine.innerText = minorArcana.swords.cards.Knight.divinitoryMeaning
     }
     if((birthMonth === "February" && birthDay >= 9) || (birthMonth === "March" && birthDay < 11)){
-        card.src = minorArcana.swords.cards.Prince.image
-        description.innerText = minorArcana.swords.cards.Prince.description
-        cardName.innerText = minorArcana.swords.cards.Prince.name
+        card.src = minorArcana.cups.cards.King.image
+        description.innerText = minorArcana.cups.cards.King.description
+        cardName.innerText = minorArcana.cups.cards.King.name
+        divine.innerText = minorArcana.cups.cards.King.divinitoryMeaning
     }
     if((birthMonth === "March" && birthDay >= 11) || (birthMonth === "April" && birthDay < 11)){
         card.src = minorArcana.wands.cards.Queen.image
         description.innerText = minorArcana.wands.cards.Queen.description
         cardName.innerText = minorArcana.wands.cards.Queen.name
+        divine.innerText = minorArcana.wands.cards.Queen.divinitoryMeaning
     }
     if((birthMonth === "April" && birthDay >= 11) || (birthMonth === "May" && birthDay < 11)){
-        card.src = minorArcana.pentacles.cards.Prince.image
-        description.innerText = minorArcana.pentacles.cards.Prince.description
-        cardName.innerText = minorArcana.pentacles.cards.Prince.name
+        card.src = minorArcana.pentacles.cards.Knight.image
+        description.innerText = minorArcana.pentacles.cards.Knight.description
+        cardName.innerText = minorArcana.pentacles.cards.Knight.name
+        divine.innerText = minorArcana.pentacles.cards.Knight.divinitoryMeaning
     }
     if((birthMonth === "May" && birthDay >= 11) || (birthMonth === "June" && birthDay < 11)){
-        card.src = minorArcana.swords.cards.Knight.image
-        description.innerText = minorArcana.swords.cards.Knight.description
-        cardName.innerText = minorArcana.swords.cards.Knight.name
+        card.src = minorArcana.swords.cards.King.image
+        description.innerText = minorArcana.swords.cards.King.description
+        cardName.innerText = minorArcana.swords.cards.King.name
+        divine.innerText = minorArcana.swords.cards.King.divinitoryMeaning
     }
     if((birthMonth === "June" && birthDay >= 11) || (birthMonth === "July" && birthDay < 12)){
         card.src = minorArcana.cups.cards.Queen.image
         description.innerText = minorArcana.cups.cards.Queen.description
         cardName.innerText = minorArcana.cups.cards.Queen.name
+        divine.innerText = minorArcana.cups.cards.Queen.divinitoryMeaning
     }
     if((birthMonth === "July" && birthDay >= 12) || (birthMonth === "August" && birthDay < 12)){
-        card.src = minorArcana.wands.cards.Prince.image
-        description.innerText = minorArcana.wands.cards.Prince.description
-        cardName.innerText = minorArcana.wands.cards.Prince.name
+        card.src = minorArcana.wands.cards.Knight.image
+        description.innerText = minorArcana.wands.cards.Knight.description
+        cardName.innerText = minorArcana.wands.cards.Knight.name
+        divine.innerText = minorArcana.wands.cards.Knight.divinitoryMeaning
     }
     if((birthMonth === "August" && birthDay >= 12) || (birthMonth === "September" && birthDay < 12)){
-        card.src = minorArcana.pentacles.cards.Knight.image
-        description.innerText = minorArcana.pentacles.cards.Knight.description
-        cardName.innerText = minorArcana.pentacles.cards.Knight.name
+        card.src = minorArcana.pentacles.cards.King.image
+        description.innerText = minorArcana.pentacles.cards.King.description
+        cardName.innerText = minorArcana.pentacles.cards.King.name
+        divine.innerText = minorArcana.pentacles.cards.King.divinitoryMeaning
     }
     // need to add name: and images to card files in order for them to show up.
 }
+// function page1a(){
+
+// }
 
 function fadeIn() {
     $("#continue").fadeIn(333);
@@ -1098,6 +1122,8 @@ function fadeIn() {
     $("#orphicSmall").fadeIn(333);
     $("#cardName").fadeIn(333);
     $("#meaning").fadeIn(333);
+    $("#divinitory").fadeIn(333);
+    $("#inputName").fadeIn(333);
 }
 
 function contNextPage() {
@@ -1105,13 +1131,14 @@ function contNextPage() {
     $("#card").fadeOut(444);
     $("#meaning").fadeOut(444);
     $("#cardName").fadeOut(444);
+    $("#divinitory").fadeOut(444);
     // contin.style.display = "none";
     // card.style.display = "none";
     // description.style.display = "none";
     // cardName.style.display = "none";
     spinner.style.display = "inline";
     Eye.style.display = "inline";
-    setTimeout(renderPage3, 444)
+    setTimeout(renderPage3, 5555)
 }
 function renderPage3(){
     // spinner.style.display = "none";
@@ -1179,9 +1206,12 @@ function page4Mirror(){
 }
     let b;
     let flipCount = 0;
+    
 function cardFlip(evt) {
     let b = evt.target
     b.src = selectedCards[b.id].image;
+    flippedCards.push(selectedCards[b.id]);
+    clickEvents.push(b);
     flipCount += 1;
     if(flipCount === 10){
         matchCount();
@@ -1195,30 +1225,61 @@ function matchCount(){
     }, {});
     console.log(suitCount);
     matchesRender();
+    console.log("fuck you")
 };
-
+//---------Iterate through clicked cards array and iterate through visible cards src. Also consider making a flipped cards array in the cardFlip function that holds the evt.target-----
+let isInputCardFound = false;
 function matchesRender(){
-    if(suitCount.Cups >=2){
-        console.log("cups")
-        selectedCards
+    if(suitCount.Cups >=3){
+        for (let i = 0 ; i < flippedCards.length ; i++){
+        if (flippedCards[i].suit === "Cups"){
+            clickEvents[i].style.border = "4.4px double blue";
+        }}
+        document.getElementById("cups").innerText = `Cups: ${suitCount.Cups}`
     }
-    if(suitCount.Wands >=2){
-        console.log("wands")
-        
+    if(suitCount.Wands >=3){
+        for (let i = 0 ; i < flippedCards.length; i++){
+            if (flippedCards[i].suit === "Wands"){
+                clickEvents[i].style.border = "4.4px double orange";
+            }}
+        document.getElementById("wands").innerText = `Wands: ${suitCount.Wands}`
     }
-    if(suitCount.Swords >=2){
-        console.log("swords")
-        
+    if(suitCount.Swords >=3){
+        for (let i = 0 ; i < flippedCards.length; i++){
+            if (flippedCards[i].suit === "Swords"){
+                clickEvents[i].style.border = "4.4px double yellow";
+            }}
+        document.getElementById("swords").innerText = `Swords: ${suitCount.Swords}`  
+        }
+    if(suitCount.Pentacles >=3){
+        for (let i = 0 ; i < flippedCards.length; i++){
+            if (flippedCards[i].suit === "Pentacles"){
+                    clickEvents[i].style.border = "4.4px double green";
+            }}
+        document.getElementById("swords").innerText = `Pentacles: ${suitCount.Pentacles}` 
     }
-    if(suitCount.Pentacles >=2){
-        console.log("pentacles")
-        
+    
+    if(suitCount.MajorArcana >= 0){
+        for (let i = 0 ; i < flippedCards.length; i++){
+            if (flippedCards[i].image === card.src ){
+                clickEvents[i].style.border = "4.4px double white";
+                document.getElementById("bonus").innerText = `BONUS: ${flippedCards[i].name}` 
+                isInputCardFound = true ;
+                p4inputCard.style.border = "4px double white";
+            }}
     }
-    if(suitCount.MajorArcana >=2){
-        console.log("Major Arcana")
-
+    if(suitCount.MajorArcana >=3){
+        for (let i = 0 ; i < flippedCards.length; i++){
+            if (flippedCards[i].suit === "MajorArcana"){
+                clickEvents[i].style.border = "4.4px double purple";
+            }}
+        document.getElementById("majorArcana").innerText = `Major Arcana: ${suitCount.MajorArcana}` 
+    } 
+    if(suitCount.Cups < 3 && suitCount.Wands < 3 && suitCount.Swords < 3 && suitCount.Pentacles < 3 && suitCount.MajorArcana < 3 && isInputCardFound !== true) {
+        document.getElementById("Lose").innerText = `Your Life Will Amount To Nothing`
     }
 };
+
 // const allCards = { ...minorArcana, ...majorArcana}
 
 // console.log(allCards)
