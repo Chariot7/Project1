@@ -1207,6 +1207,3 @@ function matchesRender(){
     
 };
 
-// 3 of swords 
-// 9 of swords
-// 10 0f swords
